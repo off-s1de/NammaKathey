@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Kathey</string>
+    <string name="app_name_kn">ನಮ್ಮ ಕಥೆ</string>
+    <string name="tagline">National Pride · ರಾಷ್ಟ್ರೀಯ ಹೆಮ್ಮೆ</string>
+
+    <!-- Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_badges">Badges</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_bookmarks">Saved</string>
+    <string name="nav_statues">Statues</string>
+
+    <!-- Actions -->
+    <string name="toggle_language">Language</string>
+    <string name="read_story">Read Story</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="earn_badge">Earn Badge</string>
+    <string name="done">Done</string>
+    <string name="retry">Retry</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="get_started">Get Started!</string>
+    <string name="skip">Skip</string>
+
+    <!-- Accessibility -->
+    <string name="cd_back">Go back</string>
+    <string name="cd_tts">Read aloud</string>
+    <string name="cd_bookmark">Bookmark story</string>
+    <string name="cd_language">Toggle language</string>
+</resources>

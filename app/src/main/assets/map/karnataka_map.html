@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 100%; height: 100%; background: #f5f0eb; overflow: hidden; }
+
+.map-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.map-img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  display: block;
+  -webkit-user-select: none;
+  user-select: none;
+  pointer-events: none;
+}
+
+.hit {
+  position: absolute;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+  /* DEBUG: uncomment to see hit areas
+  background: rgba(255,0,0,0.20);
+  border: 1px solid red; */
+}
+.hit:active { background: rgba(255,255,255,0.30); }
+</style>
+</head>
+<body>
+<div class="map-wrapper" id="wrapper">
+  <img class="map-img" id="mapImg" src="karnataka_map.jpg" draggable="false"/>
+
+  <!-- All coordinates are % of the original 879×1300 image -->
+  <!-- Northeast -->
+  <div class="hit" data-id="bidar"             data-cx="68.30" data-cy="7.97" data-r="5.5"></div>
+  <div class="hit" data-id="kalaburagi"        data-cx="60.20" data-cy="17.11" data-r="7.0"></div>
+  <div class="hit" data-id="yadgir"            data-cx="61.92" data-cy="26.58" data-r="5.0"></div>
+  <div class="hit" data-id="raichur"           data-cx="60.44" data-cy="34.88" data-r="6.5"></div>
+  <!-- North central -->
+  <div class="hit" data-id="vijayapura"        data-cx="41.77" data-cy="24.42" data-r="7.0"></div>
+  <div class="hit" data-id="bagalkot"          data-cx="36.86" data-cy="32.56" data-r="5.5"></div>
+  <!-- Northwest -->
+  <div class="hit" data-id="belagavi"          data-cx="20.39" data-cy="34.05" data-r="9.0"></div>
+  <div class="hit" data-id="dharwad"           data-cx="26.04" data-cy="44.52" data-r="5.0"></div>
+  <div class="hit" data-id="gadag"             data-cx="35.87" data-cy="44.85" data-r="5.0"></div>
+  <div class="hit" data-id="koppal"            data-cx="47.91" data-cy="41.36" data-r="5.5"></div>
+  <div class="hit" data-id="ballari"           data-cx="54.30" data-cy="48.17" data-r="6.0"></div>
+  <div class="hit" data-id="vijayanagara"      data-cx="65.11" data-cy="44.19" data-r="5.5"></div>
+  <!-- West coast -->
+  <div class="hit" data-id="uttara_kannada"    data-cx="14.99" data-cy="53.32" data-r="7.5"></div>
+  <div class="hit" data-id="haveri"            data-cx="30.96" data-cy="53.65" data-r="5.0"></div>
+  <div class="hit" data-id="dharwad_haveri"    data-cx="40.79" data-cy="59.30" data-r="5.5"></div>
+  <div class="hit" data-id="shivamogga"        data-cx="25.06" data-cy="62.79" data-r="7.0"></div>
+  <div class="hit" data-id="udupi"             data-cx="17.94" data-cy="71.10" data-r="5.0"></div>
+  <div class="hit" data-id="dakshina_kannada"  data-cx="26.78" data-cy="81.06" data-r="5.5"></div>
+  <!-- Central -->
+  <div class="hit" data-id="chitradurga"       data-cx="52.33" data-cy="62.29" data-r="6.0"></div>
+  <div class="hit" data-id="chikkamagaluru"    data-cx="35.87" data-cy="71.10" data-r="6.0"></div>
+  <div class="hit" data-id="hassan"            data-cx="44.72" data-cy="76.41" data-r="5.5"></div>
+  <div class="hit" data-id="tumakuru"          data-cx="61.92" data-cy="71.10" data-r="6.5"></div>
+  <!-- South -->
+  <div class="hit" data-id="mandya"            data-cx="58.48" data-cy="83.22" data-r="5.0"></div>
+  <div class="hit" data-id="mysuru"            data-cx="50.37" data-cy="89.04" data-r="6.5"></div>
+  <div class="hit" data-id="kodagu"            data-cx="36.61" data-cy="87.38" data-r="5.5"></div>
+  <div class="hit" data-id="chamarajanagar"    data-cx="65.11" data-cy="93.85" data-r="5.5"></div>
+  <!-- Bengaluru cluster -->
+  <div class="hit" data-id="bengaluru_rural"   data-cx="73.22" data-cy="73.59" data-r="4.5"></div>
+  <div class="hit" data-id="bengaluru_urban"   data-cx="74.94" data-cy="78.74" data-r="4.0"></div>
+  <div class="hit" data-id="ramanagara"        data-cx="70.02" data-cy="84.22" data-r="4.5"></div>
+  <div class="hit" data-id="chikkaballapur"    data-cx="79.14" data-cy="69.46" data-r="4.5"></div>
+  <div class="hit" data-id="kolar"             data-cx="89.69" data-cy="75.91" data-r="6.0"></div>
+</div>
+
+<script>
+(function () {
+  var img     = document.getElementById('mapImg');
+  var hits    = document.querySelectorAll('.hit');
+
+  function place() {
+    // img fills wrapper exactly (object-fit:fill), so clientWidth/Height = rendered size
+    var imgW = img.clientWidth;
+    var imgH = img.clientHeight;
+    if (imgW === 0 || imgH === 0) return;
+
+    hits.forEach(function (h) {
+      var cx  = parseFloat(h.dataset.cx) / 100;
+      var cy  = parseFloat(h.dataset.cy) / 100;
+      var r   = parseFloat(h.dataset.r)  / 100 * imgW;  // radius in px
+
+      h.style.left   = (cx * imgW - r) + 'px';
+      h.style.top    = (cy * imgH - r) + 'px';
+      h.style.width  = (r * 2) + 'px';
+      h.style.height = (r * 2) + 'px';
+    });
+  }
+
+  function fire(id) {
+    if (window.Android) { window.Android.onDistrictClick(id); }
+  }
+
+  hits.forEach(function (h) {
+    h.addEventListener('touchend', function (e) {
+      e.preventDefault();
+      fire(h.dataset.id);
+    }, { passive: false });
+    h.addEventListener('click', function (e) {
+      e.stopPropagation();
+      fire(h.dataset.id);
+    });
+  });
+
+  img.complete ? place() : img.addEventListener('load', place);
+  window.addEventListener('resize', place);
+  setTimeout(place, 100);
+  setTimeout(place, 400);
+})();
+</script>
+</body>
+</html>

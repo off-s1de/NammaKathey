@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 100%; height: 100%; background: #f5f0eb; }
+
+.map-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.map-img {
+  width: 100%; height: 100%;
+  object-fit: fill;
+  display: block;
+  pointer-events: none;
+  -webkit-user-select: none;
+}
+
+/* The red dot shown where you tap */
+#dot {
+  position: absolute;
+  width: 18px; height: 18px;
+  background: red;
+  border-radius: 50%;
+  border: 2px solid white;
+  transform: translate(-50%, -50%);
+  display: none;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Info panel at bottom */
+#info {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.85);
+  color: white;
+  font-family: monospace;
+  font-size: 13px;
+  padding: 10px 14px;
+  z-index: 20;
+  line-height: 1.7;
+}
+#info b { color: #FFD700; font-size: 15px; }
+#copyBtn {
+  display: inline-block;
+  margin-top: 6px;
+  background: #E8553E;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 14px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+/* Show all existing hits as blue circles */
+.existing {
+  position: absolute;
+  border-radius: 50%;
+  border: 2px dashed #00BFFF;
+  background: rgba(0,191,255,0.15);
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.existing span {
+  font-size: 7px;
+  color: #00BFFF;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.1;
+  padding: 2px;
+}
+</style>
+</head>
+<body>
+<div class="map-wrapper" id="wrapper">
+  <img class="map-img" id="mapImg" src="karnataka_map.jpg" draggable="false"/>
+  <div id="dot"></div>
+
+  <!--
+    EXISTING HITS — shown as blue dashed circles so you can see what's already mapped.
+    Tap any blank area on the map to get its coordinates, then add a new hit here.
+  -->
+  <div class="existing" data-cx="68.30" data-cy="7.97"  data-r="5.5"><span>bidar</span></div>
+  <div class="existing" data-cx="60.20" data-cy="17.11" data-r="7.0"><span>kalaburagi</span></div>
+  <div class="existing" data-cx="61.92" data-cy="26.58" data-r="5.0"><span>yadgir</span></div>
+  <div class="existing" data-cx="60.44" data-cy="34.88" data-r="6.5"><span>raichur</span></div>
+
+  <div class="existing" data-cx="41.77" data-cy="24.42" data-r="7.0"><span>vijayapura</span></div>
+  <div class="existing" data-cx="36.86" data-cy="32.56" data-r="5.5"><span>bagalkot</span></div>
+
+  <div class="existing" data-cx="20.39" data-cy="34.05" data-r="9.0"><span>belagavi</span></div>
+  <div class="existing" data-cx="26.04" data-cy="44.52" data-r="5.0"><span>dharwad</span></div>
+  <div class="existing" data-cx="35.87" data-cy="44.85" data-r="5.0"><span>gadag</span></div>
+  <div class="existing" data-cx="47.91" data-cy="41.36" data-r="5.5"><span>koppal</span></div>
+  <div class="existing" data-cx="54.30" data-cy="48.17" data-r="6.0"><span>ballari</span></div>
+  <div class="existing" data-cx="59.21" data-cy="45.85" data-r="5.5"><span>vijayanagara</span></div>
+
+  <div class="existing" data-cx="14.99" data-cy="53.32" data-r="7.5"><span>uttara kannada</span></div>
+  <div class="existing" data-cx="30.96" data-cy="53.65" data-r="5.0"><span>haveri</span></div>
+
+  <div class="existing" data-cx="32.68" data-cy="56.81" data-r="2.0"><span>dharwad_haveri</span></div>
+
+  <div class="existing" data-cx="25.06" data-cy="62.79" data-r="7.0"><span>shivamogga</span></div>
+  <div class="existing" data-cx="17.94" data-cy="71.10" data-r="5.0"><span>udupi</span></div>
+  <div class="existing" data-cx="26.78" data-cy="81.06" data-r="5.5"><span>dakshina kannada</span></div>
+
+  <div class="existing" data-cx="52.33" data-cy="62.29" data-r="6.0"><span>chitradurga</span></div>
+  <div class="existing" data-cx="35.87" data-cy="71.10" data-r="6.0"><span>chikkamagaluru</span></div>
+  <div class="existing" data-cx="44.72" data-cy="76.41" data-r="5.5"><span>hassan</span></div>
+  <div class="existing" data-cx="61.92" data-cy="71.10" data-r="6.5"><span>tumakuru</span></div>
+
+  <div class="existing" data-cx="58.48" data-cy="83.22" data-r="5.0"><span>mandya</span></div>
+  <div class="existing" data-cx="50.37" data-cy="89.04" data-r="6.5"><span>mysuru</span></div>
+  <div class="existing" data-cx="36.61" data-cy="87.38" data-r="5.5"><span>kodagu</span></div>
+  <div class="existing" data-cx="65.11" data-cy="93.85" data-r="5.5"><span>chamarajanagar</span></div>
+
+  <div class="existing" data-cx="73.22" data-cy="73.59" data-r="4.5"><span>bengaluru rural</span></div>
+  <div class="existing" data-cx="74.94" data-cy="78.74" data-r="4.0"><span>bengaluru urban</span></div>
+  <div class="existing" data-cx="70.02" data-cy="84.22" data-r="4.5"><span>ramanagara</span></div>
+  <div class="existing" data-cx="79.14" data-cy="69.46" data-r="4.5"><span>chikkaballapur</span></div>
+  <div class="existing" data-cx="86.49" data-cy="77.41" data-r="5.0"><span>kolar</span></div>
+</div>
+
+<!-- Info panel -->
+<div id="info">
+  👆 Tap anywhere on the map to get coordinates<br>
+  <b id="coords">cx="—" cy="—"</b><br>
+  <span id="htmlLine" style="color:#aaa; font-size:11px;">—</span><br>
+  <button id="copyBtn" onclick="copyLine()">📋 Copy HTML line</button>
+</div>
+
+<script>
+var img     = document.getElementById('mapImg');
+var wrapper = document.getElementById('wrapper');
+var dot     = document.getElementById('dot');
+var coords  = document.getElementById('coords');
+var htmlLine = document.getElementById('htmlLine');
+var lastLine = '';
+
+function place() {
+  var imgW = img.clientWidth;
+  var imgH = img.clientHeight;
+  if (!imgW || !imgH) return;
+
+  document.querySelectorAll('.existing').forEach(function(e) {
+    var cx = parseFloat(e.dataset.cx)/100;
+    var cy = parseFloat(e.dataset.cy)/100;
+    var r  = parseFloat(e.dataset.r) /100 * imgW;
+    e.style.left   = (cx*imgW - r) + 'px';
+    e.style.top    = (cy*imgH - r) + 'px';
+    e.style.width  = (r*2) + 'px';
+    e.style.height = (r*2) + 'px';
+  });
+}
+
+img.complete ? place() : img.addEventListener('load', place);
+window.addEventListener('resize', place);
+setTimeout(place,150); setTimeout(place,500);
+
+wrapper.addEventListener('click', function(e) {
+  var imgW = img.clientWidth;
+  var imgH = img.clientHeight;
+  var rect = img.getBoundingClientRect();
+  var relX = e.clientX - rect.left;
+  var relY = e.clientY - rect.top;
+
+  if (relX < 0 || relY < 0 || relX > imgW || relY > imgH) return;
+
+  var cx = (relX / imgW * 100).toFixed(2);
+  var cy = (relY / imgH * 100).toFixed(2);
+
+  // Move red dot
+  dot.style.left = relX + 'px';
+  dot.style.top  = relY + 'px';
+  dot.style.display = 'block';
+
+  coords.textContent = 'cx="' + cx + '" cy="' + cy + '"';
+
+  lastLine = '  <div class="hit" data-id="DISTRICT_ID" data-cx="'
+    + cx + '" data-cy="' + cy + '" data-r="5.5"></div>';
+  htmlLine.textContent = lastLine;
+});
+
+function copyLine() {
+  if (!lastLine) return;
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(lastLine);
+  } else {
+    var ta = document.createElement('textarea');
+    ta.value = lastLine;
+    document.body.appendChild(ta);
+    ta.select(); document.execCommand('copy');
+    document.body.removeChild(ta);
+  }
+  document.getElementById('copyBtn').textContent = '✅ Copied!';
+  setTimeout(function(){ document.getElementById('copyBtn').textContent = '📋 Copy HTML line'; }, 1500);
+}
+</script>
+</body>
+</html>

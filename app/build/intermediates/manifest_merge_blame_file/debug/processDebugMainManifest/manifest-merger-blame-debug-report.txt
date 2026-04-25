@@ -1,0 +1,247 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nammakathey.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:4:5-79
+11-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:5:5-81
+12-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:6:5-67
+13-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:6:22-64
+14
+15    <!-- Include required permissions for Google Maps API to run. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:28:9-32
+21
+22    <queries>
+22-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:30:5-34:15
+23
+24        <!-- Needs to be explicitly declared on Android R+ -->
+25        <package android:name="com.google.android.apps.maps" />
+25-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:18-61
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.13.1] C:\Users\ibrah\.gradle\caches\transforms-4\de4ab226e8acb174fe210a557071ce0f\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+29        android:name="com.nammakathey.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.13.1] C:\Users\ibrah\.gradle\caches\transforms-4\de4ab226e8acb174fe210a557071ce0f\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.13.1] C:\Users\ibrah\.gradle\caches\transforms-4\de4ab226e8acb174fe210a557071ce0f\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.nammakathey.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.13.1] C:\Users\ibrah\.gradle\caches\transforms-4\de4ab226e8acb174fe210a557071ce0f\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.13.1] C:\Users\ibrah\.gradle\caches\transforms-4\de4ab226e8acb174fe210a557071ce0f\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:8:5-35:19
+35        android:name="com.nammakathey.app.NammaKatheyApp"
+35-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:9:9-39
+36        android:allowBackup="true"
+36-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:10:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.13.1] C:\Users\ibrah\.gradle\caches\transforms-4\de4ab226e8acb174fe210a557071ce0f\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:hardwareAccelerated="true"
+40-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:16:9-43
+41        android:icon="@mipmap/ic_launcher"
+41-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:11:9-43
+42        android:label="@string/app_name"
+42-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:13:9-41
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:12:9-54
+44        android:supportsRtl="true"
+44-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:15:9-35
+45        android:testOnly="true"
+46        android:theme="@style/Theme.NammaKathey" >
+46-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:14:9-49
+47        <meta-data
+47-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:18:9-20:49
+48            android:name="com.google.android.geo.API_KEY"
+48-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:19:13-58
+49            android:value="YOUR_MAPS_API_KEY" />
+49-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:20:13-46
+50
+51        <activity
+51-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:22:9-28:20
+52            android:name="com.nammakathey.app.ui.SplashActivity"
+52-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:22:19-52
+53            android:exported="true"
+53-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:22:55-78
+54            android:theme="@style/Theme.NammaKathey.Splash" >
+54-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:23:13-60
+55            <intent-filter>
+55-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:24:13-27:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:25:17-69
+56-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:25:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:26:17-77
+58-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:26:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:29:9-85
+62            android:name="com.nammakathey.app.ui.OnboardingActivity"
+62-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:29:19-56
+63            android:exported="false" />
+63-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:29:58-82
+64        <activity
+64-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:30:9-31:58
+65            android:name="com.nammakathey.app.ui.MainActivity"
+65-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:30:19-50
+66            android:exported="false"
+66-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:30:59-83
+67            android:windowSoftInputMode="adjustResize" />
+67-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:31:13-55
+68        <activity
+68-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:32:9-86
+69            android:name="com.nammakathey.app.ui.StoryActivity"
+69-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:32:19-51
+70            android:exported="false" />
+70-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:32:59-83
+71        <activity
+71-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:33:9-86
+72            android:name="com.nammakathey.app.ui.QuizActivity"
+72-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:33:19-50
+73            android:exported="false" />
+73-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:33:59-83
+74        <activity
+74-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:34:9-86
+75            android:name="com.nammakathey.app.ui.MegaQuizActivity"
+75-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:34:19-54
+76            android:exported="false" />
+76-->D:\Kheder\Projects\NammaKathey\app\src\main\AndroidManifest.xml:34:59-83
+77        <!-- Needs to be explicitly declared on P+ -->
+78        <uses-library
+78-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:39:9-41:40
+79            android:name="org.apache.http.legacy"
+79-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:40:13-50
+80            android:required="false" />
+80-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\76957072d06a35b4ce7672538361a92a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:41:13-37
+81
+82        <activity
+82-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ibrah\.gradle\caches\transforms-4\8079cb74b492db531b9cf168a6c79514\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+83            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+83-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ibrah\.gradle\caches\transforms-4\8079cb74b492db531b9cf168a6c79514\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+84            android:exported="false"
+84-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ibrah\.gradle\caches\transforms-4\8079cb74b492db531b9cf168a6c79514\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+85            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+85-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ibrah\.gradle\caches\transforms-4\8079cb74b492db531b9cf168a6c79514\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+86
+87        <meta-data
+87-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ibrah\.gradle\caches\transforms-4\5e0948b943e1b7960aea5ee0c1788223\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+88            android:name="com.google.android.gms.version"
+88-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ibrah\.gradle\caches\transforms-4\5e0948b943e1b7960aea5ee0c1788223\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+89            android:value="@integer/google_play_services_version" />
+89-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ibrah\.gradle\caches\transforms-4\5e0948b943e1b7960aea5ee0c1788223\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+90
+91        <provider
+91-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrah\.gradle\caches\transforms-4\835fed70a2171e88a7da9be59f3f7ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+92            android:name="androidx.startup.InitializationProvider"
+92-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrah\.gradle\caches\transforms-4\835fed70a2171e88a7da9be59f3f7ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+93            android:authorities="com.nammakathey.app.androidx-startup"
+93-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrah\.gradle\caches\transforms-4\835fed70a2171e88a7da9be59f3f7ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+94            android:exported="false" >
+94-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrah\.gradle\caches\transforms-4\835fed70a2171e88a7da9be59f3f7ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+95            <meta-data
+95-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrah\.gradle\caches\transforms-4\835fed70a2171e88a7da9be59f3f7ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+96-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrah\.gradle\caches\transforms-4\835fed70a2171e88a7da9be59f3f7ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+97                android:value="androidx.startup" />
+97-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrah\.gradle\caches\transforms-4\835fed70a2171e88a7da9be59f3f7ad5\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+98            <meta-data
+98-->[androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ibrah\.gradle\caches\transforms-4\b34598fc71124c2dc48e8e5435f270ca\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+99-->[androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ibrah\.gradle\caches\transforms-4\b34598fc71124c2dc48e8e5435f270ca\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+100                android:value="androidx.startup" />
+100-->[androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ibrah\.gradle\caches\transforms-4\b34598fc71124c2dc48e8e5435f270ca\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+101            <meta-data
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+102                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+103                android:value="androidx.startup" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+104        </provider>
+105
+106        <uses-library
+106-->[androidx.window:window:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\f510a92fea2ad5799f4d5db1b9ff4cb2\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+107            android:name="androidx.window.extensions"
+107-->[androidx.window:window:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\f510a92fea2ad5799f4d5db1b9ff4cb2\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+108            android:required="false" />
+108-->[androidx.window:window:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\f510a92fea2ad5799f4d5db1b9ff4cb2\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+109        <uses-library
+109-->[androidx.window:window:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\f510a92fea2ad5799f4d5db1b9ff4cb2\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+110            android:name="androidx.window.sidecar"
+110-->[androidx.window:window:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\f510a92fea2ad5799f4d5db1b9ff4cb2\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+111            android:required="false" />
+111-->[androidx.window:window:1.0.0] C:\Users\ibrah\.gradle\caches\transforms-4\f510a92fea2ad5799f4d5db1b9ff4cb2\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+112
+113        <service
+113-->[androidx.room:room-runtime:2.6.1] C:\Users\ibrah\.gradle\caches\transforms-4\0998bb64c7f6ed9d4abec9bbfc4fde83\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+114            android:name="androidx.room.MultiInstanceInvalidationService"
+114-->[androidx.room:room-runtime:2.6.1] C:\Users\ibrah\.gradle\caches\transforms-4\0998bb64c7f6ed9d4abec9bbfc4fde83\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+115            android:directBootAware="true"
+115-->[androidx.room:room-runtime:2.6.1] C:\Users\ibrah\.gradle\caches\transforms-4\0998bb64c7f6ed9d4abec9bbfc4fde83\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+116            android:exported="false" />
+116-->[androidx.room:room-runtime:2.6.1] C:\Users\ibrah\.gradle\caches\transforms-4\0998bb64c7f6ed9d4abec9bbfc4fde83\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+117
+118        <receiver
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+119            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+120            android:directBootAware="false"
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+121            android:enabled="true"
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+122            android:exported="true"
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+123            android:permission="android.permission.DUMP" >
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+124            <intent-filter>
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+125                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+126            </intent-filter>
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+128                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+129            </intent-filter>
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+131                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+132            </intent-filter>
+133            <intent-filter>
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+134                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrah\.gradle\caches\transforms-4\767797f29d8a27246d4c415848f2e9a4\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+135            </intent-filter>
+136        </receiver>
+137    </application>
+138
+139</manifest>

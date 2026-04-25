@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/color_bottom_nav_selector.xml.flat",
+        "source": "com.nammakathey.app-main-61:/color/bottom_nav_selector.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_fragment_statuefinder.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/fragment_statuefinder.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_activity_quiz.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_home.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_hero_card.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_hero_card.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_fragment_home.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_activity_splash.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_bookmark.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_bookmark.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_onboarding_page.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_onboarding_page.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_language.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/menu_main_menu.xml.flat",
+        "source": "com.nammakathey.app-main-61:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_badge.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_badge.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_bg_option_wrong.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/bg_option_wrong.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_search_result.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_search_result.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_speaker.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_speaker.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_lang_toggle_button.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/lang_toggle_button.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_activity_main.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_story_page.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_story_page.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_fragment_badges.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/fragment_badges.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_fragment_search.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.nammakathey.app-main-61:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/navigation_nav_graph.xml.flat",
+        "source": "com.nammakathey.app-main-61:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_stop.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_launcher_fg.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_launcher_fg.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_activity_onboarding.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_statue.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_statue.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_badge.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_badge.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_fragment_bookmarks.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_bookmark.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_bookmark.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_search.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nammakathey.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_activity_mega_quiz.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/activity_mega_quiz.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_bg_option_default.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/bg_option_default.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_item_district_chip.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/item_district_chip.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/layout_activity_story.xml.flat",
+        "source": "com.nammakathey.app-main-61:/layout/activity_story.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_ic_location.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-59:/drawable_bg_option_correct.xml.flat",
+        "source": "com.nammakathey.app-main-61:/drawable/bg_option_correct.xml"
+    }
+]

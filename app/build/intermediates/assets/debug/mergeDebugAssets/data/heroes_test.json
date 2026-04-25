@@ -1,0 +1,3383 @@
+{
+  "districts": [
+    {
+      "districtId": "dharwad",
+      "districtName": "Dharwad",
+      "districtNameKn": "ಧಾರವಾಡ",
+      "colorHex": "#C0392B",
+      "latitude": 15.4589,
+      "longitude": 75.0078,
+      "heroes": [
+        {
+          "heroId": "sangolli_rayanna",
+          "nameEn": "Sangolli Rayanna",
+          "nameKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+          "era": "1798-1831",
+          "category": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "The Lion of Kittur",
+          "taglineKn": "ಕಿತ್ತೂರಿನ ಸಿಂಹ",
+          "imageEmoji": "🦁",
+          "colorHex": "#C0392B",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Born a Warrior",
+              "titleKn": "ಯೋಧನಾಗಿ ಜನಿಸಿದ",
+              "contentEn": "Sangolli Rayanna was born in 1798 in Sangolli village, Dharwad. From childhood he showed extraordinary bravery and could outrun horses.",
+              "contentKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ 1798 ರಲ್ಲಿ ಧಾರವಾಡ ಜಿಲ್ಲೆ ಸಂಗೊಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಅಸಾಧಾರಣ ಧೈರ್ಯಕ್ಕೆ ಹೆಸರಾಗಿದ್ದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Commander of Kittur",
+              "titleKn": "ಕಿತ್ತೂರಿನ ಸೇನಾಧಿಪತಿ",
+              "contentEn": "Rayanna served as military commander under Queen Chennamma. His guerrilla tactics confused even the best British commanders.",
+              "contentKn": "ರಾಯಣ್ಣ ರಾಣಿ ಚೆನ್ನಮ್ಮನ ಸೇನಾ ಕಮಾಂಡರ್ ಆಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Martyr for Freedom",
+              "titleKn": "ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹುತಾತ್ಮ",
+              "contentEn": "Even after Chennamma was imprisoned, Rayanna continued fighting. In 1831 he was captured and hanged on January 26 — a martyr who never surrendered.",
+              "contentKn": "ಚೆನ್ನಮ್ಮ ಸೆರೆಯಾದ ನಂತರವೂ ಹೋರಾಡಿ 1831 ರ ಜನವರಿ 26 ರಂದು ಗಲ್ಲಿಗೇರಿಸಲಾಯಿತು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "In which village was Sangolli Rayanna born?",
+              "questionKn": "In which village was Sangolli Rayanna born?",
+              "options": [
+                "Sangolli",
+                "Kittur",
+                "Dharwad",
+                "Belgaum"
+              ],
+              "optionsKn": [
+                "ಸಂಗೊಳ್ಳಿ",
+                "ಕಿತ್ತೂರು",
+                "ಧಾರವಾಡ",
+                "ಬೆಳಗಾವಿ"
+              ],
+              "correctIndex": 0
+            },
+            {
+              "questionEn": "Under which queen did Rayanna serve?",
+              "questionKn": "Under which queen did Rayanna serve?",
+              "options": [
+                "Rani Laxmibai",
+                "Chennamma",
+                "Abbakka",
+                "Keladi"
+              ],
+              "optionsKn": [
+                "ರಾಣಿ ಲಕ್ಷ್ಮಿ",
+                "ಚೆನ್ನಮ್ಮ",
+                "ಅಬ್ಬಕ್ಕ",
+                "ಕೆಳದಿ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "When was Sangolli Rayanna hanged?",
+              "questionKn": "When was Sangolli Rayanna hanged?",
+              "options": [
+                "1820",
+                "1825",
+                "1831",
+                "1857"
+              ],
+              "optionsKn": [
+                "1820",
+                "1825",
+                "1831",
+                "1857"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_sangolli",
+          "badgeNameEn": "Sangolli's Courage",
+          "badgeNameKn": "ಸಂಗೊಳ್ಳಿಯ ಧೈರ್ಯ",
+          "statueLocation": {
+            "nameEn": "Sangolli Rayanna Statue",
+            "nameKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಪ್ರತಿಮೆ",
+            "latitude": 15.4637,
+            "longitude": 75.0143,
+            "address": "Dharwad, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sangolli_Rayanna"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "belagavi",
+      "districtName": "Belagavi",
+      "districtNameKn": "ಬೆಳಗಾವಿ",
+      "colorHex": "#6C3483",
+      "latitude": 15.8497,
+      "longitude": 74.4977,
+      "heroes": [
+        {
+          "heroId": "kittur_chennamma",
+          "nameEn": "Kittur Chennamma",
+          "nameKn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ",
+          "era": "1778-1829",
+          "category": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "Warrior Queen of Kittur",
+          "taglineKn": "ಕಿತ್ತೂರಿನ ವೀರ ರಾಣಿ",
+          "imageEmoji": "👑",
+          "colorHex": "#6C3483",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "A Queen Who Never Bowed",
+              "titleKn": "ತಲೆ ಬಾಗದ ರಾಣಿ",
+              "contentEn": "Kittur Chennamma was born in 1778 in Kakati village, Belagavi. Trained in horse riding and sword fighting, she became queen of the Kittur Kingdom.",
+              "contentKn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ 1778 ರಲ್ಲಿ ಬೆಳಗಾವಿ ಕಾಕತಿಯಲ್ಲಿ ಜನಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Battle of Kittur",
+              "titleKn": "ಕಿತ್ತೂರು ಕದನ",
+              "contentEn": "In 1824 when British tried to annex Kittur using Doctrine of Lapse, Chennamma refused. Her forces defeated the British — 33 years before the 1857 mutiny!",
+              "contentKn": "1824 ರಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಪ್ರತಿರೋಧಿಸಿ 1857 ರ 33 ವರ್ಷ ಮೊದಲೇ ಯುದ್ಧ ಗೆದ್ದರು!"
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "An Eternal Legend",
+              "titleKn": "ಶಾಶ್ವತ ದಂತಕಥೆ",
+              "contentEn": "Though imprisoned at Bailhongal Fort and dying in 1829, Chennamma's courage inspired generations. Her statue stands on Parliament Street in Delhi.",
+              "contentKn": "1829 ರಲ್ಲಿ ಸೆರೆಯಲ್ಲಿ ನಿಧನರಾದ ಚೆನ್ನಮ್ಮ ಪ್ರತಿಮೆ ದೆಹಲಿ ಸಂಸತ್ ರಸ್ತೆಯಲ್ಲಿ ನಿಂತಿದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "In which village was Kittur Chennamma born?",
+              "questionKn": "In which village was Kittur Chennamma born?",
+              "options": [
+                "Kittur",
+                "Kakati",
+                "Belagavi",
+                "Dharwad"
+              ],
+              "optionsKn": [
+                "ಕಿತ್ತೂರು",
+                "ಕಾಕತಿ",
+                "ಬೆಳಗಾವಿ",
+                "ಧಾರವಾಡ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What British policy triggered the Battle of Kittur?",
+              "questionKn": "What British policy triggered the Battle of Kittur?",
+              "options": [
+                "Divide and Rule",
+                "Doctrine of Lapse",
+                "Subsidiary Alliance",
+                "Permanent Settlement"
+              ],
+              "optionsKn": [
+                "ಒಡೆದು ಆಳು",
+                "ದತ್ತಕ ನಿಷೇಧ",
+                "ಅಧೀನ ಮೈತ್ರಿ",
+                "ಶಾಶ್ವತ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Where is Chennamma's statue in Delhi?",
+              "questionKn": "Where is Chennamma's statue in Delhi?",
+              "options": [
+                "India Gate",
+                "Red Fort",
+                "Parliament Street",
+                "Connaught Place"
+              ],
+              "optionsKn": [
+                "ಇಂಡಿಯಾ ಗೇಟ್",
+                "ಕೆಂಪು ಕೋಟೆ",
+                "ಸಂಸತ್ ರಸ್ತೆ",
+                "ಕನಾಟ್ ಪ್ಲೇಸ್"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_chennamma",
+          "badgeNameEn": "Chennamma's Crown",
+          "badgeNameKn": "ಚೆನ್ನಮ್ಮನ ಕಿರೀಟ",
+          "statueLocation": {
+            "nameEn": "Kittur Chennamma Statue",
+            "nameKn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಪ್ರತಿಮೆ",
+            "latitude": 15.6263,
+            "longitude": 74.8124,
+            "address": "Kittur, Belagavi",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kittur_Chennamma"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "mysuru",
+      "districtName": "Mysuru",
+      "districtNameKn": "ಮೈಸೂರು",
+      "colorHex": "#1A8F5A",
+      "latitude": 12.2958,
+      "longitude": 76.6394,
+      "heroes": [
+        {
+          "heroId": "tipu_sultan",
+          "nameEn": "Tipu Sultan",
+          "nameKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+          "era": "1750-1799",
+          "category": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "Tiger of Mysore",
+          "taglineKn": "ಮೈಸೂರು ಹುಲಿ",
+          "imageEmoji": "🐯",
+          "colorHex": "#1A8F5A",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Tiger is Born",
+              "titleKn": "ಹುಲಿ ಜನಿಸಿತು",
+              "contentEn": "Tipu Sultan was born November 20, 1750 near Bengaluru. Son of Hyder Ali, he said: 'Better to live one day as a tiger than a thousand years as a sheep.'",
+              "contentKn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ 1750 ರ ನವೆಂಬರ್ 20 ರಂದು ಬೆಂಗಳೂರು ಸಮೀಪ ಜನಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "The Rocket Innovator",
+              "titleKn": "ರಾಕೆಟ್ ಆವಿಷ್ಕಾರಕ",
+              "contentEn": "Tipu created the world's first iron-cased rockets — the Mysorean rockets. British scientists later studied these to develop modern rocketry.",
+              "contentKn": "ಟಿಪ್ಪು ವಿಶ್ವದ ಮೊದಲ ಕಬ್ಬಿಣ ರಾಕೆಟ್ ರಚಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "The Final Battle",
+              "titleKn": "ಅಂತಿಮ ಯುದ್ಧ",
+              "contentEn": "In 1799, British attacked Srirangapatna. Rather than surrender, Tipu fought to his last breath at the fort gates, dying May 4, 1799.",
+              "contentKn": "1799 ರಲ್ಲಿ ಶ್ರೀರಂಗಪಟ್ಟಣದಲ್ಲಿ ಶರಣಾಗದೆ ಹೋರಾಡಿ ಮೇ 4 ರಂದು ವೀರ ಮರಣ ಹೊಂದಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is Tipu Sultan's famous nickname?",
+              "questionKn": "What is Tipu Sultan's famous nickname?",
+              "options": [
+                "Lion of Mysore",
+                "Tiger of Mysore",
+                "Eagle of Deccan",
+                "King of South"
+              ],
+              "optionsKn": [
+                "ಮೈಸೂರು ಸಿಂಹ",
+                "ಮೈಸೂರು ಹುಲಿ",
+                "ದಖ್ಖನ್ ಹದ್ದು",
+                "ದಕ್ಷಿಣ ರಾಜ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What military invention is Tipu known for?",
+              "questionKn": "What military invention is Tipu known for?",
+              "options": [
+                "Gunpowder",
+                "Iron Rockets",
+                "Cannon",
+                "Battleships"
+              ],
+              "optionsKn": [
+                "ಗನ್‌ಪೌಡರ್",
+                "ಕಬ್ಬಿಣ ರಾಕೆಟ್",
+                "ಫಿರಂಗಿ",
+                "ಯುದ್ಧನೌಕೆ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Where did Tipu Sultan die?",
+              "questionKn": "Where did Tipu Sultan die?",
+              "options": [
+                "Mysore Fort",
+                "Chitradurga",
+                "Srirangapatna",
+                "Bengaluru Fort"
+              ],
+              "optionsKn": [
+                "ಮೈಸೂರು ಕೋಟೆ",
+                "ಚಿತ್ರದುರ್ಗ",
+                "ಶ್ರೀರಂಗಪಟ್ಟಣ",
+                "ಬೆಂಗಳೂರು ಕೋಟೆ"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_tipu",
+          "badgeNameEn": "Tiger's Roar",
+          "badgeNameKn": "ಹುಲಿಯ ಗರ್ಜನೆ",
+          "statueLocation": {
+            "nameEn": "Tipu Sultan's Summer Palace",
+            "nameKn": "ಟಿಪ್ಪು ಬೇಸಿಗೆ ಅರಮನೆ",
+            "latitude": 12.9598,
+            "longitude": 77.5723,
+            "address": "Bengaluru, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tipu_Sultan%27s_Summer_Palace"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "dakshina_kannada",
+      "districtName": "Dakshina Kannada",
+      "districtNameKn": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+      "colorHex": "#E67E22",
+      "latitude": 12.9141,
+      "longitude": 74.856,
+      "heroes": [
+        {
+          "heroId": "abbakka_rani",
+          "nameEn": "Abbakka Rani",
+          "nameKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ",
+          "era": "16th Century",
+          "category": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "India's First Freedom Fighter",
+          "taglineKn": "ಭಾರತದ ಮೊದಲ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "imageEmoji": "⚔️",
+          "colorHex": "#E67E22",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Warrior of the Coast",
+              "titleKn": "ಕರಾವಳಿಯ ವೀರ ಮಹಿಳೆ",
+              "contentEn": "Queen Abbakka ruled Ullal near Mangaluru in the 16th century. From the Chowta dynasty and trained in warfare, she stood against Portuguese invaders.",
+              "contentKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ 16ನೇ ಶತಮಾನ ಉಳ್ಳಾಲ ಆಳಿದರು. ಪೋರ್ಚುಗೀಸ್ ವಿರುದ್ಧ ಹೋರಾಡಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Defeating the Portuguese",
+              "titleKn": "ಪೋರ್ಚುಗೀಸರ ಸೋಲು",
+              "contentEn": "The Portuguese repeatedly tried to conquer Ullal. Abbakka repelled their attacks. In one night raid she personally led soldiers into their camp forcing retreat.",
+              "contentKn": "ಪೋರ್ಚುಗೀಸರು ಪದೇ ಪದೇ ಪ್ರಯತ್ನಿಸಿದರು. ಅಬ್ಬಕ್ಕ ರಾತ್ರಿ ದಾಳಿಯಲ್ಲಿ ಮುನ್ನಡೆದು ಶತ್ರುಗಳನ್ನು ಓಡಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "India's First Heroine",
+              "titleKn": "ಭಾರತದ ಮೊದಲ ವೀರ ನಾಯಕಿ",
+              "contentEn": "Abbakka Rani is India's earliest freedom fighter. The Indian Coast Guard named a ship 'ICGS Abbakka' in her honor.",
+              "contentKn": "ಭಾರತೀಯ ತಟರಕ್ಷಕ 'ICGS ಅಬ್ಬಕ್ಕ' ಹಡಗು ಹೆಸರಿಸಿದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "Which town did Abbakka Rani rule?",
+              "questionKn": "Which town did Abbakka Rani rule?",
+              "options": [
+                "Mangaluru",
+                "Ullal",
+                "Udupi",
+                "Karwar"
+              ],
+              "optionsKn": [
+                "ಮಂಗಳೂರು",
+                "ಉಳ್ಳಾಲ",
+                "ಉಡುಪಿ",
+                "ಕಾರವಾರ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which foreign power did Abbakka fight?",
+              "questionKn": "Which foreign power did Abbakka fight?",
+              "options": [
+                "British",
+                "French",
+                "Portuguese",
+                "Dutch"
+              ],
+              "optionsKn": [
+                "ಬ್ರಿಟಿಷ್",
+                "ಫ್ರೆಂಚ್",
+                "ಪೋರ್ಚುಗೀಸ್",
+                "ಡಚ್"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "What did the Coast Guard name after Abbakka?",
+              "questionKn": "What did the Coast Guard name after Abbakka?",
+              "options": [
+                "Island",
+                "Ship",
+                "Lighthouse",
+                "Port"
+              ],
+              "optionsKn": [
+                "ದ್ವೀಪ",
+                "ಹಡಗು",
+                "ದೀಪಸ್ತಂಭ",
+                "ಬಂದರು"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_abbakka",
+          "badgeNameEn": "Abbakka's Shield",
+          "badgeNameKn": "ಅಬ್ಬಕ್ಕಳ ಗುರಾಣಿ",
+          "statueLocation": {
+            "nameEn": "Abbakka Rani Statue",
+            "nameKn": "ಅಬ್ಬಕ್ಕ ರಾಣಿ ಪ್ರತಿಮೆ",
+            "latitude": 12.8074,
+            "longitude": 74.858,
+            "address": "Ullal, Dakshina Kannada",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Abbakka_Rani"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "bengaluru_urban",
+      "districtName": "Bengaluru Urban",
+      "districtNameKn": "ಬೆಂಗಳೂರು ನಗರ",
+      "colorHex": "#8E44AD",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "heroes": [
+        {
+          "heroId": "kengal_hanumanthaiah",
+          "nameEn": "Kengal Hanumanthaiah",
+          "nameKn": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ",
+          "era": "1908-1980",
+          "category": "Statesman",
+          "categoryKn": "ರಾಜಕಾರಣಿ",
+          "taglineEn": "Builder of Vidhana Soudha",
+          "taglineKn": "ವಿಧಾನಸೌಧ ನಿರ್ಮಾಪಕ",
+          "imageEmoji": "🏛️",
+          "colorHex": "#8E44AD",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Dream Builder",
+              "titleKn": "ಕನಸಿನ ನಿರ್ಮಾಪಕ",
+              "contentEn": "Kengal Hanumanthaiah was born in 1908 in Kengal village. Rising from humble origins, he became second Chief Minister of Mysore State.",
+              "contentKn": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ 1908 ರಲ್ಲಿ ಕೆಂಗಲ್ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿ ಮೈಸೂರು ರಾಜ್ಯದ ಎರಡನೇ ಮುಖ್ಯಮಂತ್ರಿಯಾದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Building Vidhana Soudha",
+              "titleKn": "ವಿಧಾನಸೌಧ ನಿರ್ಮಾಣ",
+              "contentEn": "Hanumanthaiah's greatest achievement was building Vidhana Soudha, completed in 1956. He said: 'We should build something that makes even our conquerors envious.'",
+              "contentKn": "1956 ರಲ್ಲಿ ಪೂರ್ಣಗೊಂಡ ವಿಧಾನಸೌಧ ಅವರ ಮಹಾನ್ ಸಾಧನೆ."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Legacy of Service",
+              "titleKn": "ಸೇವೆಯ ಪರಂಪರೆ",
+              "contentEn": "He worked for rural development, education and farmers' welfare. An active voice for Kannada rights until his death in 1980.",
+              "contentKn": "1980 ರಲ್ಲಿ ನಿಧನರಾದ ಅವರ ಪರಂಪರೆ ಬೆಂಗಳೂರು ಹೃದಯ ಭಾಗದಲ್ಲಿ ನಿಂತಿದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is Hanumanthaiah's greatest achievement?",
+              "questionKn": "What is Hanumanthaiah's greatest achievement?",
+              "options": [
+                "Bangalore Palace",
+                "Vidhana Soudha",
+                "Lal Bagh",
+                "Cubbon Park"
+              ],
+              "optionsKn": [
+                "ಬೆಂಗಳೂರು ಅರಮನೆ",
+                "ವಿಧಾನಸೌಧ",
+                "ಲಾಲ್ ಬಾಗ್",
+                "ಕಬ್ಬನ್ ಪಾರ್ಕ್"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What position did Hanumanthaiah hold?",
+              "questionKn": "What position did Hanumanthaiah hold?",
+              "options": [
+                "1st CM",
+                "2nd CM",
+                "Governor",
+                "Finance Minister"
+              ],
+              "optionsKn": [
+                "1ನೇ CM",
+                "2ನೇ CM",
+                "ರಾಜ್ಯಪಾಲ",
+                "ಹಣಕಾಸು ಮಂತ್ರಿ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "When was Vidhana Soudha completed?",
+              "questionKn": "When was Vidhana Soudha completed?",
+              "options": [
+                "1947",
+                "1950",
+                "1956",
+                "1960"
+              ],
+              "optionsKn": [
+                "1947",
+                "1950",
+                "1956",
+                "1960"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_hanumanthaiah",
+          "badgeNameEn": "Builder's Pride",
+          "badgeNameKn": "ನಿರ್ಮಾಪಕನ ಹೆಮ್ಮೆ",
+          "statueLocation": {
+            "nameEn": "Vidhana Soudha",
+            "nameKn": "ವಿಧಾನಸೌಧ",
+            "latitude": 12.9794,
+            "longitude": 77.5906,
+            "address": "Bengaluru, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vidhana_Soudha"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "tumakuru",
+      "districtName": "Tumakuru",
+      "districtNameKn": "ತುಮಕೂರು",
+      "colorHex": "#2E86AB",
+      "latitude": 13.3392,
+      "longitude": 77.1009,
+      "heroes": [
+        {
+          "heroId": "siddalingaiah",
+          "nameEn": "Siddalingaiah",
+          "nameKn": "ಸಿದ್ಧಲಿಂಗಯ್ಯ",
+          "era": "1954-2021",
+          "category": "Poet",
+          "categoryKn": "ಕವಿ",
+          "taglineEn": "Voice of the Oppressed",
+          "taglineKn": "ಅಸ್ಪೃಶ್ಯರ ಧ್ವನಿ",
+          "imageEmoji": "✍️",
+          "colorHex": "#2E86AB",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Born with a Song",
+              "titleKn": "ಹಾಡಿನೊಂದಿಗೆ ಜನಿಸಿದ",
+              "contentEn": "Siddalingaiah was born in 1954 near Bengaluru in a Dalit family. He turned his pain into powerful poetry that shook Karnataka.",
+              "contentKn": "ಸಿದ್ಧಲಿಂಗಯ್ಯ 1954 ರಲ್ಲಿ ದಲಿತ ಕುಟುಂಬದಲ್ಲಿ ಜನಿಸಿ ನೋವನ್ನು ಕಾವ್ಯವಾಗಿ ರೂಪಾಂತರಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Words That Shook Karnataka",
+              "titleKn": "ಕರ್ನಾಟಕ ತಲ್ಲಣಿಸಿದ ಮಾತು",
+              "contentEn": "His 'Ooru Keri' (1975) shook Karnataka's literary world. Founder of Dalit Sangharsha Samiti, he fought for equality.",
+              "contentKn": "'ಊರು ಕೇರಿ' (1975) ಕನ್ನಡ ಸಾಹಿತ್ಯ ಜಗತ್ತನ್ನು ತಲ್ಲಣಿಸಿತು. ದಲಿತ ಸಂಘರ್ಷ ಸಮಿತಿ ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Legacy of Equality",
+              "titleKn": "ಸಮಾನತೆಯ ಪರಂಪರೆ",
+              "contentEn": "Siddalingaiah received the Pampa Award, Karnataka's highest literary honor. He passed away in 2021 but his poems inspire millions.",
+              "contentKn": "ಪಂಪ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಸಿದ್ಧಲಿಂಗಯ್ಯ 2021 ರಲ್ಲಿ ನಿಧನರಾದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is Siddalingaiah's famous collection?",
+              "questionKn": "What is Siddalingaiah's famous collection?",
+              "options": [
+                "Naada Geethe",
+                "Ooru Keri",
+                "Bhava Nadi",
+                "Janapada"
+              ],
+              "optionsKn": [
+                "ನಾಡ ಗೀತೆ",
+                "ಊರು ಕೇರಿ",
+                "ಭಾವ ನದಿ",
+                "ಜಾನಪದ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What organization did he found?",
+              "questionKn": "What organization did he found?",
+              "options": [
+                "Kannada Sahitya Parishad",
+                "Dalit Sangharsha Samiti",
+                "Veerashaiva Mahasabha",
+                "Lingayat Samaj"
+              ],
+              "optionsKn": [
+                "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್",
+                "ದಲಿತ ಸಂಘರ್ಷ ಸಮಿತಿ",
+                "ವೀರಶೈವ ಮಹಾಸಭಾ",
+                "ಲಿಂಗಾಯತ ಸಮಾಜ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which award did he receive?",
+              "questionKn": "Which award did he receive?",
+              "options": [
+                "Jnanpith",
+                "Pampa Award",
+                "Sahitya Akademi",
+                "Rajyotsava"
+              ],
+              "optionsKn": [
+                "ಜ್ಞಾನಪೀಠ",
+                "ಪಂಪ ಪ್ರಶಸ್ತಿ",
+                "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+                "ರಾಜ್ಯೋತ್ಸವ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_siddalingaiah",
+          "badgeNameEn": "Poet's Pen",
+          "badgeNameKn": "ಕವಿಯ ಲೇಖನಿ",
+          "statueLocation": {
+            "nameEn": "Siddalingaiah Memorial",
+            "nameKn": "ಸಿದ್ಧಲಿಂಗಯ್ಯ ಸ್ಮಾರಕ",
+            "latitude": 13.3524,
+            "longitude": 77.1011,
+            "address": "Tumakuru, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Siddalingaiah"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "shivamogga",
+      "districtName": "Shivamogga",
+      "districtNameKn": "ಶಿವಮೊಗ್ಗ",
+      "colorHex": "#27AE60",
+      "latitude": 13.9299,
+      "longitude": 75.5681,
+      "heroes": [
+        {
+          "heroId": "kuvempu",
+          "nameEn": "Kuvempu",
+          "nameKn": "ಕುವೆಂಪು",
+          "era": "1904-1994",
+          "category": "Poet Laureate",
+          "categoryKn": "ರಾಷ್ಟ್ರಕವಿ",
+          "taglineEn": "Karnataka's National Poet",
+          "taglineKn": "ಕರ್ನಾಟಕದ ರಾಷ್ಟ್ರಕವಿ",
+          "imageEmoji": "📜",
+          "colorHex": "#27AE60",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Forest Child",
+              "titleKn": "ಕಾಡಿನ ಮಗು",
+              "contentEn": "Kuppali Venkatappa Puttappa (Kuvempu) was born in 1904 in Kuppali, Shivamogga. Growing up in the lush Malnad forests deeply influenced his poetry and love for nature.",
+              "contentKn": "ಕುವೆಂಪು 1904 ರಲ್ಲಿ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ಕುಪ್ಪಳಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಮಲೆನಾಡ ಕಾಡು ಅವರ ಕಾವ್ಯ ಪ್ರೇರಣೆ."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Jnanpith Award Winner",
+              "titleKn": "ಜ್ಞಾನಪೀಠ ವಿಜೇತ",
+              "contentEn": "Kuvempu wrote the monumental Ramayana Darshanam receiving the Jnanpith Award — the highest literary honor in India and was the first Kannada writer to receive it.",
+              "contentKn": "ರಾಮಾಯಣ ದರ್ಶನಂ ಕೃತಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಮೊದಲ ಕನ್ನಡ ಲೇಖಕ."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Rastakavi",
+              "titleKn": "ರಾಷ್ಟ್ರಕವಿ",
+              "contentEn": "Awarded 'Rastakavi' (National Poet), Kuvempu championed 'Vishwamanava' — Universal Man — transcending caste and religion. He passed away in 1994 leaving immortal literature.",
+              "contentKn": "ರಾಷ್ಟ್ರಕವಿ ಬಿರುದು ಪಡೆದ ಕುವೆಂಪು 'ವಿಶ್ವಮಾನವ' ತತ್ವ ಪ್ರತಿಪಾದಿಸಿದರು. 1994 ರಲ್ಲಿ ನಿಧನರಾದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is Kuvempu's real name?",
+              "questionKn": "What is Kuvempu's real name?",
+              "options": [
+                "Kuvempu",
+                "Kuppali Venkatappa Puttappa",
+                "Kempu Narayana",
+                "Venkatappa"
+              ],
+              "optionsKn": [
+                "ಕುವೆಂಪು",
+                "ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ",
+                "ಕೆಂಪು ನಾರಾಯಣ",
+                "ವೆಂಕಟಪ್ಪ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "For which work did Kuvempu receive Jnanpith?",
+              "questionKn": "For which work did Kuvempu receive Jnanpith?",
+              "options": [
+                "Kanooru Heggadithi",
+                "Ramayana Darshanam",
+                "Malegalalli Madumagalu",
+                "Beralge Koral"
+              ],
+              "optionsKn": [
+                "ಕಾನೂರು ಹೆಗ್ಗಡಿತಿ",
+                "ರಾಮಾಯಣ ದರ್ಶನಂ",
+                "ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು",
+                "ಬೆರಳ್ಗೆ ಕೊರಳ್"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What title was Kuvempu given?",
+              "questionKn": "What title was Kuvempu given?",
+              "options": [
+                "Mahakavi",
+                "Rastakavi",
+                "Kavisamrat",
+                "Kavishreshtha"
+              ],
+              "optionsKn": [
+                "ಮಹಾಕವಿ",
+                "ರಾಷ್ಟ್ರಕವಿ",
+                "ಕವಿಸಮ್ರಾಟ್",
+                "ಕವಿಶ್ರೇಷ್ಠ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_kuvempu",
+          "badgeNameEn": "Kuvempu's Quill",
+          "badgeNameKn": "ಕುವೆಂಪು ಲೇಖನಿ",
+          "statueLocation": {
+            "nameEn": "Kavishailam - Kuvempu Memorial",
+            "nameKn": "ಕವಿಶೈಲ",
+            "latitude": 13.9254,
+            "longitude": 75.568,
+            "address": "Kuppali, Shivamogga",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kuvempu"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "uttara_kannada",
+      "districtName": "Uttara Kannada",
+      "districtNameKn": "ಉತ್ತರ ಕನ್ನಡ",
+      "colorHex": "#2980B9",
+      "latitude": 14.8,
+      "longitude": 74.68,
+      "heroes": [
+        {
+          "heroId": "karnad_sadashivarao",
+          "nameEn": "Karnad Sadashiva Rao",
+          "nameKn": "ಕರ್ನಾಡ್ ಸದಾಶಿವ ರಾವ್",
+          "era": "1867-1919",
+          "category": "Social Reformer",
+          "categoryKn": "ಸಮಾಜ ಸುಧಾರಕ",
+          "taglineEn": "Pioneer of Social Reform",
+          "taglineKn": "ಸಮಾಜ ಸುಧಾರಣೆ ಮುಂಚೂಣಿ",
+          "imageEmoji": "🕊️",
+          "colorHex": "#2980B9",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Voice for the Voiceless",
+              "titleKn": "ಧ್ವನಿಯಿಲ್ಲದವರ ಧ್ವನಿ",
+              "contentEn": "Karnad Sadashiva Rao was born in 1867 in Uttara Kannada. He fought tirelessly against untouchability and worked to uplift marginalized communities.",
+              "contentKn": "ಕರ್ನಾಡ್ ಸದಾಶಿವ ರಾವ್ 1867 ರಲ್ಲಿ ಉತ್ತರ ಕನ್ನಡದಲ್ಲಿ ಜನಿಸಿ ಅಸ್ಪೃಶ್ಯತೆ ವಿರುದ್ಧ ಹೋರಾಡಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Education for All",
+              "titleKn": "ಎಲ್ಲರಿಗೂ ಶಿಕ್ಷಣ",
+              "contentEn": "He established schools for lower-caste children when education was a privilege of few. He believed education was the most powerful tool for social transformation.",
+              "contentKn": "ಕೆಳಜಾತಿ ಮಕ್ಕಳಿಗೆ ಶಾಲೆ ಸ್ಥಾಪಿಸಿ ಶಿಕ್ಷಣ ಸಮಾಜ ಬದಲಾವಣೆ ಸಾಧನ ಎಂದು ನಂಬಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "A Life of Service",
+              "titleKn": "ಸೇವೆಯ ಜೀವನ",
+              "contentEn": "Karnad Sadashiva Rao dedicated his entire life to social service. He passed away in 1919 leaving schools and institutions in Uttara Kannada.",
+              "contentKn": "ಇಡೀ ಜೀವನ ಸಮಾಜ ಸೇವೆಗೆ ಮೀಸಲಿಟ್ಟ ಅವರು 1919 ರಲ್ಲಿ ನಿಧನರಾದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What did Karnad Sadashiva Rao fight against?",
+              "questionKn": "What did Karnad Sadashiva Rao fight against?",
+              "options": [
+                "British Rule",
+                "Untouchability",
+                "Child Marriage",
+                "Tax"
+              ],
+              "optionsKn": [
+                "ಬ್ರಿಟಿಷ್",
+                "ಅಸ್ಪೃಶ್ಯತೆ",
+                "ಬಾಲ ವಿವಾಹ",
+                "ತೆರಿಗೆ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What did he establish for children?",
+              "questionKn": "What did he establish for children?",
+              "options": [
+                "Hospitals",
+                "Schools",
+                "Libraries",
+                "Courts"
+              ],
+              "optionsKn": [
+                "ಆಸ್ಪತ್ರೆ",
+                "ಶಾಲೆ",
+                "ಗ್ರಂಥಾಲಯ",
+                "ನ್ಯಾಯಾಲಯ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "When did he pass away?",
+              "questionKn": "When did he pass away?",
+              "options": [
+                "1905",
+                "1912",
+                "1919",
+                "1930"
+              ],
+              "optionsKn": [
+                "1905",
+                "1912",
+                "1919",
+                "1930"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_karnad",
+          "badgeNameEn": "Reformer's Star",
+          "badgeNameKn": "ಸುಧಾರಕನ ತಾರೆ",
+          "statueLocation": {
+            "nameEn": "Karnad Memorial",
+            "nameKn": "ಕರ್ನಾಡ್ ಸ್ಮಾರಕ",
+            "latitude": 14.8236,
+            "longitude": 74.1302,
+            "address": "Karwar, Uttara Kannada",
+            "wikipediaUrl": null
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "udupi",
+      "districtName": "Udupi",
+      "districtNameKn": "ಉಡುಪಿ",
+      "colorHex": "#F39C12",
+      "latitude": 13.3409,
+      "longitude": 74.7421,
+      "heroes": [
+        {
+          "heroId": "madhvacharya",
+          "nameEn": "Madhvacharya",
+          "nameKn": "ಮಧ್ವಾಚಾರ್ಯ",
+          "era": "1238-1317",
+          "category": "Philosopher",
+          "categoryKn": "ತತ್ವಜ್ಞಾನಿ",
+          "taglineEn": "Father of Dvaita Philosophy",
+          "taglineKn": "ದ್ವೈತ ತತ್ವಶಾಸ್ತ್ರದ ಜನಕ",
+          "imageEmoji": "🙏",
+          "colorHex": "#F39C12",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Born a Sage",
+              "titleKn": "ಸಂತನಾಗಿ ಜನಿಸಿದ",
+              "contentEn": "Madhvacharya was born in 1238 in Pajaka near Udupi. A brilliant scholar who could recite scriptures by age five, he showed remarkable spiritual inclination from birth.",
+              "contentKn": "ಮಧ್ವಾಚಾರ್ಯರು 1238 ರಲ್ಲಿ ಉಡುಪಿ ಸಮೀಪ ಪಾಜಕದಲ್ಲಿ ಜನಿಸಿದರು. ಐದನೇ ವಯಸ್ಸಿಗೆ ಶಾಸ್ತ್ರ ಪಠಿಸಬಲ್ಲ ಪ್ರತಿಭಾವಂತ."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Dvaita Philosophy",
+              "titleKn": "ದ್ವೈತ ತತ್ವ",
+              "contentEn": "Madhvacharya founded Dvaita Vedanta — God and soul are eternally distinct. He established eight mutts in Udupi and the famous Krishna temple.",
+              "contentKn": "ದ್ವೈತ ವೇದಾಂತ ಸ್ಥಾಪಿಸಿ ಉಡುಪಿಯಲ್ಲಿ ಎಂಟು ಮಠ ಮತ್ತು ಕೃಷ್ಣ ಮಂದಿರ ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Spiritual Legacy",
+              "titleKn": "ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ",
+              "contentEn": "Madhvacharya wrote over 37 works in Sanskrit. The Udupi Krishna temple remains one of India's most visited temples even after 1200 years.",
+              "contentKn": "ಸಂಸ್ಕೃತದಲ್ಲಿ 37 ಕ್ಕೂ ಹೆಚ್ಚು ಕೃತಿ ರಚಿಸಿದರು. ಉಡುಪಿ ಕೃಷ್ಣ ಮಂದಿರ ಇಂದಿಗೂ ಪ್ರಮುಖ ಯಾತ್ರಾ ಸ್ಥಳ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What philosophy did Madhvacharya found?",
+              "questionKn": "What philosophy did Madhvacharya found?",
+              "options": [
+                "Advaita",
+                "Vishishtadvaita",
+                "Dvaita",
+                "Shaiva Siddhanta"
+              ],
+              "optionsKn": [
+                "ಅದ್ವೈತ",
+                "ವಿಶಿಷ್ಟಾದ್ವೈತ",
+                "ದ್ವೈತ",
+                "ಶೈವ ಸಿದ್ಧಾಂತ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "Where was Madhvacharya born?",
+              "questionKn": "Where was Madhvacharya born?",
+              "options": [
+                "Udupi town",
+                "Pajaka near Udupi",
+                "Mangaluru",
+                "Kundapur"
+              ],
+              "optionsKn": [
+                "ಉಡುಪಿ",
+                "ಪಾಜಕ",
+                "ಮಂಗಳೂರು",
+                "ಕುಂದಾಪುರ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "How many mutts did he establish in Udupi?",
+              "questionKn": "How many mutts did he establish in Udupi?",
+              "options": [
+                "Four",
+                "Six",
+                "Eight",
+                "Ten"
+              ],
+              "optionsKn": [
+                "ನಾಲ್ಕು",
+                "ಆರು",
+                "ಎಂಟು",
+                "ಹತ್ತು"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_madhva",
+          "badgeNameEn": "Madhva's Wisdom",
+          "badgeNameKn": "ಮಧ್ವರ ಜ್ಞಾನ",
+          "statueLocation": {
+            "nameEn": "Udupi Krishna Temple",
+            "nameKn": "ಉಡುಪಿ ಕೃಷ್ಣ ಮಂದಿರ",
+            "latitude": 13.3413,
+            "longitude": 74.7517,
+            "address": "Udupi, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Krishna_Temple,_Udupi"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "hassan",
+      "districtName": "Hassan",
+      "districtNameKn": "ಹಾಸನ",
+      "colorHex": "#16A085",
+      "latitude": 13.0033,
+      "longitude": 76.1004,
+      "heroes": [
+        {
+          "heroId": "vishnuvardhana",
+          "nameEn": "Vishnuvardhana",
+          "nameKn": "ವಿಷ್ಣುವರ್ಧನ",
+          "era": "1108-1152 CE",
+          "category": "King",
+          "categoryKn": "ರಾಜ",
+          "taglineEn": "The Hoysala Conqueror",
+          "taglineKn": "ಹೊಯ್ಸಳ ವಿಜೇತ",
+          "imageEmoji": "🏹",
+          "colorHex": "#16A085",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Hoysala King",
+              "titleKn": "ಹೊಯ್ಸಳ ರಾಜ",
+              "contentEn": "Vishnuvardhana was the greatest Hoysala king, ruling from 1108 CE. He expanded the Hoysala Empire and drove out the Cholas from South India.",
+              "contentKn": "ವಿಷ್ಣುವರ್ಧನ 1108 CE ನಲ್ಲಿ ಹೊಯ್ಸಳ ಸಿಂಹಾಸನ ಏರಿ ಚೋಳರನ್ನು ಓಡಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Temple Builder",
+              "titleKn": "ದೇವಾಲಯ ನಿರ್ಮಾಪಕ",
+              "contentEn": "Vishnuvardhana built the Chennakeshava Temple at Belur and Hoysaleshwara Temple at Halebidu — architectural masterpieces and finest Hoysala architecture in the world.",
+              "contentKn": "ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ಮತ್ತು ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ಮಂದಿರ ನಿರ್ಮಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "UNESCO Heritage",
+              "titleKn": "UNESCO ಪರಂಪರೆ",
+              "contentEn": "Vishnuvardhana's temples at Belur and Halebidu are UNESCO World Heritage Sites. His patronage of art made the Hoysala era a golden age for Karnataka.",
+              "contentKn": "ಬೇಲೂರು ಮತ್ತು ಹಳೇಬೀಡು ಮಂದಿರಗಳು UNESCO ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "Which temple did Vishnuvardhana build at Belur?",
+              "questionKn": "Which temple did Vishnuvardhana build at Belur?",
+              "options": [
+                "Hoysaleshwara",
+                "Chennakeshava",
+                "Virupaksha",
+                "Ramalingeswara"
+              ],
+              "optionsKn": [
+                "ಹೊಯ್ಸಳೇಶ್ವರ",
+                "ಚೆನ್ನಕೇಶವ",
+                "ವಿರೂಪಾಕ್ಷ",
+                "ರಾಮಲಿಂಗೇಶ್ವರ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which dynasty did Vishnuvardhana belong to?",
+              "questionKn": "Which dynasty did Vishnuvardhana belong to?",
+              "options": [
+                "Chalukya",
+                "Rashtrakuta",
+                "Hoysala",
+                "Vijayanagara"
+              ],
+              "optionsKn": [
+                "ಚಾಲುಕ್ಯ",
+                "ರಾಷ್ಟ್ರಕೂಟ",
+                "ಹೊಯ್ಸಳ",
+                "ವಿಜಯನಗರ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "What UNESCO status do Belur-Halebidu temples have?",
+              "questionKn": "What UNESCO status do Belur-Halebidu temples have?",
+              "options": [
+                "Natural Heritage",
+                "World Heritage Site",
+                "Cultural Capital",
+                "Heritage City"
+              ],
+              "optionsKn": [
+                "ನೈಸರ್ಗಿಕ ಪರಂಪರೆ",
+                "ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ",
+                "ಸಾಂಸ್ಕೃತಿಕ ರಾಜಧಾನಿ",
+                "ಪರಂಪರೆ ನಗರ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_vishnuvardhana",
+          "badgeNameEn": "Hoysala Star",
+          "badgeNameKn": "ಹೊಯ್ಸಳ ತಾರೆ",
+          "statueLocation": {
+            "nameEn": "Chennakeshava Temple Belur",
+            "nameKn": "ಚೆನ್ನಕೇಶವ ಮಂದಿರ ಬೇಲೂರು",
+            "latitude": 13.1651,
+            "longitude": 75.8677,
+            "address": "Belur, Hassan",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Belur"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "chitradurga",
+      "districtName": "Chitradurga",
+      "districtNameKn": "ಚಿತ್ರದುರ್ಗ",
+      "colorHex": "#D35400",
+      "latitude": 14.2251,
+      "longitude": 76.3983,
+      "heroes": [
+        {
+          "heroId": "obavva",
+          "nameEn": "Onake Obavva",
+          "nameKn": "ಒನಕೆ ಒಬವ್ವ",
+          "era": "18th Century",
+          "category": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "Heroine with the Pestle",
+          "taglineKn": "ಒನಕೆ ಹಿಡಿದ ವೀರ ನಾರಿ",
+          "imageEmoji": "💪",
+          "colorHex": "#D35400",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "A Simple Woman's Bravery",
+              "titleKn": "ಸಾಮಾನ್ಯ ಮಹಿಳೆಯ ಅಸಾಮಾನ್ಯ ಧೈರ್ಯ",
+              "contentEn": "Onake Obavva was the wife of a soldier guarding Chitradurga Fort. While her husband was away she discovered Hyder Ali's soldiers sneaking through a small gap in the fort wall.",
+              "contentKn": "ಒನಕೆ ಒಬವ್ವ ಚಿತ್ರದುರ್ಗ ಕೋಟೆ ಕಾವಲುಗಾರನ ಪತ್ನಿ. ಗಂಡ ಇಲ್ಲದ ವೇಳೆ ಹೈದರ್ ಸೈನಿಕರು ಬಿರುಕಿನಲ್ಲಿ ನುಸುಳುತ್ತಿದ್ದದ್ದು ಗಮನಿಸಿದಳು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "The Pestle as Weapon",
+              "titleKn": "ಶಸ್ತ್ರವಾದ ಒನಕೆ",
+              "contentEn": "Armed with only a wooden pestle (onake) for husking rice, Obavva single-handedly killed enemy soldiers one by one as they crawled through the gap. She protected the fort for hours alone.",
+              "contentKn": "ಕೇವಲ ಒನಕೆಯೊಂದಿಗೆ ಒಬ್ಬಳೇ ಶತ್ರು ಸೈನಿಕರನ್ನು ಬಿರುಕಿನಿಂದ ಬರುತ್ತಿದ್ದ ಒಬ್ಬೊಬ್ಬರನ್ನೂ ಕೊಂದಳು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "An Immortal Heroine",
+              "titleKn": "ಅಮರ ವೀರ ನಾರಿ",
+              "contentEn": "Obavva was eventually found dead after killing dozens of soldiers alone. She saved Chitradurga Fort and is worshipped as a goddess there.",
+              "contentKn": "ಅನೇಕ ಸೈನಿಕ ಸಂಹರಿಸಿ ಕೊನೆಗೆ ಮೃತಳಾದ ಒಬವ್ವ ಕೋಟೆ ಉಳಿಸಿದಳು. ಅವಳನ್ನು ದೇವತೆಯಂತೆ ಪೂಜಿಸಲಾಗುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What weapon did Onake Obavva use?",
+              "questionKn": "What weapon did Onake Obavva use?",
+              "options": [
+                "Sword",
+                "Spear",
+                "Wooden Pestle",
+                "Bow and Arrow"
+              ],
+              "optionsKn": [
+                "ಖಡ್ಗ",
+                "ಈಟಿ",
+                "ಒನಕೆ",
+                "ಬಿಲ್ಲು ಬಾಣ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "Which fort did Obavva protect?",
+              "questionKn": "Which fort did Obavva protect?",
+              "options": [
+                "Bidar Fort",
+                "Gulbarga Fort",
+                "Chitradurga Fort",
+                "Bellary Fort"
+              ],
+              "optionsKn": [
+                "ಬೀದರ್ ಕೋಟೆ",
+                "ಗುಲ್ಬರ್ಗ ಕೋಟೆ",
+                "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ",
+                "ಬಳ್ಳಾರಿ ಕೋಟೆ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "Whose soldiers did Obavva fight?",
+              "questionKn": "Whose soldiers did Obavva fight?",
+              "options": [
+                "British",
+                "Marathas",
+                "Hyder Ali",
+                "Portuguese"
+              ],
+              "optionsKn": [
+                "ಬ್ರಿಟಿಷ್",
+                "ಮರಾಠರು",
+                "ಹೈದರ್ ಅಲಿ",
+                "ಪೋರ್ಚುಗೀಸ್"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_obavva",
+          "badgeNameEn": "Obavva's Strength",
+          "badgeNameKn": "ಒಬವ್ವಳ ಶಕ್ತಿ",
+          "statueLocation": {
+            "nameEn": "Onake Obavva Statue",
+            "nameKn": "ಒನಕೆ ಒಬವ್ವ ಪ್ರತಿಮೆ",
+            "latitude": 14.2251,
+            "longitude": 76.3983,
+            "address": "Chitradurga Fort",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Onake_Obavva"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "kalaburagi",
+      "districtName": "Kalaburagi",
+      "districtNameKn": "ಕಲಬುರಗಿ",
+      "colorHex": "#7D3C98",
+      "latitude": 17.3297,
+      "longitude": 76.8343,
+      "heroes": [
+        {
+          "heroId": "basavanna",
+          "nameEn": "Basavanna",
+          "nameKn": "ಬಸವಣ್ಣ",
+          "era": "1131-1167 CE",
+          "category": "Saint & Reformer",
+          "categoryKn": "ಸಂತ ಮತ್ತು ಸುಧಾರಕ",
+          "taglineEn": "Father of Lingayat Movement",
+          "taglineKn": "ಲಿಂಗಾಯತ ಚಳವಳಿ ಜನಕ",
+          "imageEmoji": "🕉️",
+          "colorHex": "#7D3C98",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Great Reformer",
+              "titleKn": "ಮಹಾ ಸುಧಾರಕ",
+              "contentEn": "Basavanna was born in 1131 CE in Bagewadi. A 12th century statesman, he served as Prime Minister of the Kalachuri King and championed social equality.",
+              "contentKn": "ಬಸವಣ್ಣ 1131 CE ನಲ್ಲಿ ಬಾಗೇವಾಡಿಯಲ್ಲಿ ಜನಿಸಿ ಕಲಚೂರಿ ರಾಜನ ಮಂತ್ರಿಯಾಗಿ ಸಮಾನತೆ ಪ್ರತಿಪಾದಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Vachana Movement",
+              "titleKn": "ವಚನ ಚಳವಳಿ",
+              "contentEn": "Basavanna founded the Vachana literary movement — profound Kannada prose poems rejecting caste. He established Anubhava Mantapa, the world's first democratic forum for philosophy.",
+              "contentKn": "ವಚನ ಸಾಹಿತ್ಯ ಚಳವಳಿ ಸ್ಥಾಪಿಸಿ ಅನುಭವ ಮಂಟಪ ಮೂಲಕ ಜಾತಿ ತಾರತಮ್ಯ ಎದುರಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Work is Worship",
+              "titleKn": "ಕಾಯಕವೇ ಕೈಲಾಸ",
+              "contentEn": "'Kayakave Kailasa' (Work is Worship) transformed Karnataka society. He promoted gender equality, literacy and rejected caste hierarchy. His philosophy influences millions today.",
+              "contentKn": "'ಕಾಯಕವೇ ಕೈಲಾಸ' ತತ್ವ ಕರ್ನಾಟಕ ಸಮಾಜ ಬದಲಿಸಿತು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What movement did Basavanna found?",
+              "questionKn": "What movement did Basavanna found?",
+              "options": [
+                "Virashaiva",
+                "Vachana",
+                "Bhakti",
+                "Sharana"
+              ],
+              "optionsKn": [
+                "ವೀರಶೈವ",
+                "ವಚನ",
+                "ಭಕ್ತಿ",
+                "ಶರಣ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What forum did Basavanna establish?",
+              "questionKn": "What forum did Basavanna establish?",
+              "options": [
+                "Kalyana Mandapa",
+                "Anubhava Mantapa",
+                "Sharana Sabha",
+                "Vachana Samiti"
+              ],
+              "optionsKn": [
+                "ಕಲ್ಯಾಣ ಮಂಟಪ",
+                "ಅನುಭವ ಮಂಟಪ",
+                "ಶರಣ ಸಭಾ",
+                "ವಚನ ಸಮಿತಿ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What does 'Kayakave Kailasa' mean?",
+              "questionKn": "What does 'Kayakave Kailasa' mean?",
+              "options": [
+                "God is Great",
+                "Work is Worship",
+                "Truth is God",
+                "Love is Service"
+              ],
+              "optionsKn": [
+                "ದೇವರು ಮಹಾನ್",
+                "ಕಾಯಕವೇ ಕೈಲಾಸ",
+                "ಸತ್ಯವೇ ದೇವರು",
+                "ಪ್ರೀತಿಯೇ ಸೇವೆ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_basavanna",
+          "badgeNameEn": "Basavanna's Light",
+          "badgeNameKn": "ಬಸವಣ್ಣನ ಬೆಳಕು",
+          "statueLocation": {
+            "nameEn": "Basavanna Statue Basavakalyan",
+            "nameKn": "ಬಸವಣ್ಣ ಪ್ರತಿಮೆ ಬಸವಕಲ್ಯಾಣ",
+            "latitude": 17.8726,
+            "longitude": 76.9506,
+            "address": "Basavakalyan, Kalaburagi",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Basavanna"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "raichur",
+      "districtName": "Raichur",
+      "districtNameKn": "ರಾಯಚೂರು",
+      "colorHex": "#E74C3C",
+      "latitude": 16.212,
+      "longitude": 77.3439,
+      "heroes": [
+        {
+          "heroId": "gangubai_hangal",
+          "nameEn": "Gangubai Hangal",
+          "nameKn": "ಗಂಗೂಬಾಯಿ ಹಂಗಲ್",
+          "era": "1913-2009",
+          "category": "Classical Musician",
+          "categoryKn": "ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತಗಾರ್ತಿ",
+          "taglineEn": "Queen of Hindustani Classical",
+          "taglineKn": "ಹಿಂದೂಸ್ತಾನಿ ಸಂಗೀತ ರಾಣಿ",
+          "imageEmoji": "🎵",
+          "colorHex": "#E74C3C",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Born for Music",
+              "titleKn": "ಸಂಗೀತಕ್ಕಾಗಿ ಜನಿಸಿದ",
+              "contentEn": "Gangubai Hangal was born in 1913 in Dharwad. Despite hardships and societal barriers, she trained in Kirana Gharana style and became one of the greatest vocalists of the 20th century.",
+              "contentKn": "ಗಂಗೂಬಾಯಿ ಹಂಗಲ್ 1913 ರಲ್ಲಿ ಧಾರವಾಡ ಸಂಗೀತ ಕುಟುಂಬದಲ್ಲಿ ಜನಿಸಿ ಕಿರಾಣ ಘರಾಣಾ ಶೈಲಿ ಕಲಿತರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Conquering Barriers",
+              "titleKn": "ಅಡೆತಡೆ ಮೀರಿ",
+              "contentEn": "Gangubai overcame poverty, being a single mother, and gender barriers. Her powerful voice in ragas like Bhimpalasi captivated audiences worldwide.",
+              "contentKn": "ಬಡತನ ಮತ್ತು ಏಕಾಂಗಿ ತಾಯಿ ಕಳಂಕ ಮೀರಿ ಶಕ್ತಿಶಾಲಿ ದನಿಯಿಂದ ವಿಶ್ವ ಪ್ರಸಿದ್ಧರಾದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Padma Vibhushan",
+              "titleKn": "ಪದ್ಮ ವಿಭೂಷಣ",
+              "contentEn": "Gangubai received the Padma Vibhushan and Sangeet Natak Akademi Award. Performing until very old age, she passed away in 2009 at 96 leaving immortal musical legacy.",
+              "contentKn": "ಪದ್ಮ ವಿಭೂಷಣ ಪಡೆದ ಗಂಗೂಬಾಯಿ 2009 ರಲ್ಲಿ 96 ವರ್ಷ ವಯಸ್ಸಿನಲ್ಲಿ ನಿಧನರಾದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "In which music style did Gangubai train?",
+              "questionKn": "In which music style did Gangubai train?",
+              "options": [
+                "Carnatic",
+                "Kirana Gharana Hindustani",
+                "Dhrupad",
+                "Thumri"
+              ],
+              "optionsKn": [
+                "ಕರ್ನಾಟಕ",
+                "ಕಿರಾಣ ಘರಾಣಾ",
+                "ಧ್ರುಪದ್",
+                "ಠುಮ್ರಿ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What award did Gangubai receive?",
+              "questionKn": "What award did Gangubai receive?",
+              "options": [
+                "Bharat Ratna",
+                "Padma Vibhushan",
+                "Padma Shri",
+                "Padma Bhushan"
+              ],
+              "optionsKn": [
+                "ಭಾರತ ರತ್ನ",
+                "ಪದ್ಮ ವಿಭೂಷಣ",
+                "ಪದ್ಮ ಶ್ರೀ",
+                "ಪದ್ಮ ಭೂಷಣ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "How old was she when she passed away?",
+              "questionKn": "How old was she when she passed away?",
+              "options": [
+                "80",
+                "86",
+                "90",
+                "96"
+              ],
+              "optionsKn": [
+                "80",
+                "86",
+                "90",
+                "96"
+              ],
+              "correctIndex": 3
+            }
+          ],
+          "badgeId": "badge_gangubai",
+          "badgeNameEn": "Gangubai's Melody",
+          "badgeNameKn": "ಗಂಗೂಬಾಯಿ ರಾಗ",
+          "statueLocation": {
+            "nameEn": "Gangubai Hangal Memorial",
+            "nameKn": "ಗಂಗೂಬಾಯಿ ಸ್ಮಾರಕ",
+            "latitude": 15.4589,
+            "longitude": 75.0078,
+            "address": "Dharwad, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gangubai_Hangal"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "bidar",
+      "districtName": "Bidar",
+      "districtNameKn": "ಬೀದರ್",
+      "colorHex": "#1ABC9C",
+      "latitude": 17.9104,
+      "longitude": 77.5199,
+      "heroes": [
+        {
+          "heroId": "mahmud_gawan",
+          "nameEn": "Mahmud Gawan",
+          "nameKn": "ಮಹಮೂದ್ ಗಾವಾನ್",
+          "era": "1411-1481 CE",
+          "category": "Statesman",
+          "categoryKn": "ರಾಜಕಾರಣಿ",
+          "taglineEn": "Prime Minister of Bidar Sultanate",
+          "taglineKn": "ಬೀದರ್ ಸುಲ್ತಾನಶಾಹಿ ಪ್ರಧಾನ ಮಂತ್ರಿ",
+          "imageEmoji": "📚",
+          "colorHex": "#1ABC9C",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Persian Scholar",
+              "titleKn": "ಪರ್ಶಿಯನ್ ವಿದ್ವಾಂಸ",
+              "contentEn": "Mahmud Gawan was born in Persia in 1411 and came to India as a merchant. His intelligence quickly impressed the Bahmani Sultan and he became Prime Minister of Bidar Sultanate.",
+              "contentKn": "ಮಹಮೂದ್ ಗಾವಾನ್ 1411 ರಲ್ಲಿ ಪರ್ಶಿಯಾದಲ್ಲಿ ಜನಿಸಿ ವ್ಯಾಪಾರಿಯಾಗಿ ಭಾರತಕ್ಕೆ ಬಂದು ಪ್ರಧಾನ ಮಂತ್ರಿಯಾದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "The Madrasa of Bidar",
+              "titleKn": "ಬೀದರ್ ಮದ್ರಸಾ",
+              "contentEn": "Mahmud Gawan built the famous Bidar Madrasa — a three-storey Islamic college with a library of 3000 manuscripts attracting scholars from across the Islamic world.",
+              "contentKn": "ಬೀದರ್ ಮದ್ರಸಾ ಕಟ್ಟಿಸಿ 3000 ಹಸ್ತಪ್ರತಿ ಗ್ರಂಥಾಲಯ ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "A Tragic End",
+              "titleKn": "ದುರಂತ ಅಂತ್ಯ",
+              "contentEn": "Though a brilliant administrator, Mahmud Gawan was falsely accused of treason by jealous courtiers and executed in 1481. History has since vindicated him.",
+              "contentKn": "ಅಸೂಯಾಪರ ಆಸ್ಥಾನಿಗರ ಮೋಸದ ಆಪಾದನೆಯ ಮೇರೆಗೆ 1481 ರಲ್ಲಿ ಮರಣದಂಡನೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "Where was Mahmud Gawan born?",
+              "questionKn": "Where was Mahmud Gawan born?",
+              "options": [
+                "Bidar",
+                "Persia",
+                "Arabia",
+                "Turkey"
+              ],
+              "optionsKn": [
+                "ಬೀದರ್",
+                "ಪರ್ಶಿಯಾ",
+                "ಅರೇಬಿಯಾ",
+                "ತುರ್ಕಿ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What did he build in Bidar?",
+              "questionKn": "What did he build in Bidar?",
+              "options": [
+                "Fort",
+                "Mosque",
+                "Madrasa",
+                "Palace"
+              ],
+              "optionsKn": [
+                "ಕೋಟೆ",
+                "ಮಸೀದಿ",
+                "ಮದ್ರಸಾ",
+                "ಅರಮನೆ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "How many manuscripts were in his library?",
+              "questionKn": "How many manuscripts were in his library?",
+              "options": [
+                "1000",
+                "2000",
+                "3000",
+                "5000"
+              ],
+              "optionsKn": [
+                "1000",
+                "2000",
+                "3000",
+                "5000"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_gawan",
+          "badgeNameEn": "Gawan's Wisdom",
+          "badgeNameKn": "ಗಾವಾನ್ ಜ್ಞಾನ",
+          "statueLocation": {
+            "nameEn": "Mahmud Gawan Madrasa",
+            "nameKn": "ಮಹಮೂದ್ ಗಾವಾನ್ ಮದ್ರಸಾ",
+            "latitude": 17.9196,
+            "longitude": 77.5072,
+            "address": "Bidar, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahmud_Gawan_Madrasa"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "vijayapura",
+      "districtName": "Vijayapura",
+      "districtNameKn": "ವಿಜಯಪುರ",
+      "colorHex": "#8E44AD",
+      "latitude": 16.8302,
+      "longitude": 75.71,
+      "heroes": [
+        {
+          "heroId": "ibrahim_adil_shah",
+          "nameEn": "Ibrahim Adil Shah II",
+          "nameKn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಶಾಹ II",
+          "era": "1556-1627 CE",
+          "category": "King & Patron",
+          "categoryKn": "ರಾಜ ಮತ್ತು ಕಲಾ ಪ್ರೋತ್ಸಾಹಕ",
+          "taglineEn": "Jagadguru – Teacher of the World",
+          "taglineKn": "ಜಗದ್ಗುರು",
+          "imageEmoji": "🎨",
+          "colorHex": "#8E44AD",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Philosopher King",
+              "titleKn": "ತತ್ವಜ್ಞಾನಿ ರಾಜ",
+              "contentEn": "Ibrahim Adil Shah II ruled Vijayapura from 1580. Known as 'Jagadguru' (Teacher of the World), he was learned in music, poetry and philosophy, transcending religious boundaries.",
+              "contentKn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಶಾಹ II 1580 ರಿಂದ ವಿಜಯಪುರ ಆಳಿದರು. 'ಜಗದ್ಗುರು' ಎಂದು ಹೆಸರಾದ ಅವರು ಸಂಗೀತ ಮತ್ತು ಕಾವ್ಯದ ವಿದ್ವಾಂಸರಾಗಿದ್ದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Gol Gumbaz",
+              "titleKn": "ಗೋಳ ಗುಂಬಜ",
+              "contentEn": "Under his patronage was built the Gol Gumbaz — the mausoleum with the world's second largest dome. Its whispering gallery is a marvel where a whisper can be heard 37 meters away.",
+              "contentKn": "ಅವರ ಆಶ್ರಯದಲ್ಲಿ ವಿಶ್ವ 2ನೇ ದೊಡ್ಡ ಗುಂಬಜ ಹೊಂದಿದ ಗೋಳ ಗುಂಬಜ ನಿರ್ಮಾಣ."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Unity in Diversity",
+              "titleKn": "ವೈವಿಧ್ಯದಲ್ಲಿ ಏಕತೆ",
+              "contentEn": "Ibrahim composed Kannada and Urdu poems, played music and commissioned art blending Hindu and Islamic traditions. His tolerant reign became a model of cultural harmony.",
+              "contentKn": "ಕನ್ನಡ ಮತ್ತು ಉರ್ದು ಕಾವ್ಯ ರಚಿಸಿ ಹಿಂದೂ-ಇಸ್ಲಾಮಿಕ್ ಸಂಸ್ಕೃತಿ ಸಮನ್ವಯ ಸಾಧಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is Gol Gumbaz famous for?",
+              "questionKn": "What is Gol Gumbaz famous for?",
+              "options": [
+                "Tallest minaret",
+                "World's 2nd largest dome",
+                "Oldest mosque",
+                "Biggest library"
+              ],
+              "optionsKn": [
+                "ಎತ್ತರ ಮಿನಾರ",
+                "ವಿಶ್ವ 2ನೇ ದೊಡ್ಡ ಗುಂಬಜ",
+                "ಹಳೆ ಮಸೀದಿ",
+                "ದೊಡ್ಡ ಗ್ರಂಥಾಲಯ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What nickname was Ibrahim Adil Shah given?",
+              "questionKn": "What nickname was Ibrahim Adil Shah given?",
+              "options": [
+                "Jagadguru",
+                "Badshah",
+                "Nawab",
+                "Sultan"
+              ],
+              "optionsKn": [
+                "ಜಗದ್ಗುರು",
+                "ಬಾದಶಾಹ",
+                "ನವಾಬ",
+                "ಸುಲ್ತಾನ"
+              ],
+              "correctIndex": 0
+            },
+            {
+              "questionEn": "In which city is Gol Gumbaz located?",
+              "questionKn": "In which city is Gol Gumbaz located?",
+              "options": [
+                "Bidar",
+                "Raichur",
+                "Vijayapura",
+                "Kalaburagi"
+              ],
+              "optionsKn": [
+                "ಬೀದರ್",
+                "ರಾಯಚೂರು",
+                "ವಿಜಯಪುರ",
+                "ಕಲಬುರಗಿ"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_ibrahim",
+          "badgeNameEn": "Gol Gumbaz Star",
+          "badgeNameKn": "ಗೋಳ ಗುಂಬಜ ತಾರೆ",
+          "statueLocation": {
+            "nameEn": "Gol Gumbaz",
+            "nameKn": "ಗೋಳ ಗುಂಬಜ",
+            "latitude": 16.8297,
+            "longitude": 75.7356,
+            "address": "Vijayapura, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gol_Gumbaz"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "ballari",
+      "districtName": "Ballari",
+      "districtNameKn": "ಬಳ್ಳಾರಿ",
+      "colorHex": "#CA6F1E",
+      "latitude": 15.1394,
+      "longitude": 76.9214,
+      "heroes": [
+        {
+          "heroId": "krishnadevaraya",
+          "nameEn": "Krishnadevaraya",
+          "nameKn": "ಕೃಷ್ಣದೇವರಾಯ",
+          "era": "1471-1529 CE",
+          "category": "Emperor",
+          "categoryKn": "ಚಕ್ರವರ್ತಿ",
+          "taglineEn": "Greatest Vijayanagara Emperor",
+          "taglineKn": "ಮಹಾನ್ ವಿಜಯನಗರ ಚಕ್ರವರ್ತಿ",
+          "imageEmoji": "👑",
+          "colorHex": "#CA6F1E",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Golden Emperor",
+              "titleKn": "ಚಿನ್ನದ ಚಕ್ರವರ್ತಿ",
+              "contentEn": "Krishnadevaraya was the greatest Vijayanagara ruler, reigning 1509–1529. Under him the empire reached its peak with Hampi as its glorious capital stretching across most of South India.",
+              "contentKn": "ಕೃಷ್ಣದೇವರಾಯ 1509–1529 ವಿಜಯನಗರ ಆಳಿ ಹಂಪಿ ರಾಜಧಾನಿಯೊಂದಿಗೆ ಸಾಮ್ರಾಜ್ಯ ಉತ್ತುಂಗಕ್ಕೆ ಕೊಂಡೊಯ್ದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Scholar King",
+              "titleKn": "ವಿದ್ವಾಂಸ ರಾಜ",
+              "contentEn": "Krishnadevaraya was also a great Telugu poet, author of Amuktamalyada. He patronized the Ashtadiggajas — eight great poets — at his court.",
+              "contentKn": "ಅಮುಕ್ತಮಾಲ್ಯದ ರಚಿಸಿದ ತೆಲುಗು ಕವಿ. ಅಷ್ಟ ದಿಗ್ಗಜ ಕವಿಗಳನ್ನು ಆಶ್ರಯಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Hampi's Golden Age",
+              "titleKn": "ಹಂಪಿಯ ಚಿನ್ನದ ಯುಗ",
+              "contentEn": "Krishnadevaraya built magnificent temples at Hampi making it the world's second largest city. Today Hampi is a UNESCO World Heritage Site celebrating his legacy.",
+              "contentKn": "ಹಂಪಿ ವಿಶ್ವದ 2ನೇ ದೊಡ್ಡ ನಗರ. ಹಂಪಿ ಇಂದು UNESCO ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What was the capital of Vijayanagara Empire?",
+              "questionKn": "What was the capital of Vijayanagara Empire?",
+              "options": [
+                "Mysuru",
+                "Hampi",
+                "Bellary",
+                "Chitradurga"
+              ],
+              "optionsKn": [
+                "ಮೈಸೂರು",
+                "ಹಂಪಿ",
+                "ಬಳ್ಳಾರಿ",
+                "ಚಿತ್ರದುರ್ಗ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "How many poets did Krishnadevaraya patronize?",
+              "questionKn": "How many poets did Krishnadevaraya patronize?",
+              "options": [
+                "Four",
+                "Eight (Ashtadiggajas)",
+                "Nine Navaratnas",
+                "Twelve"
+              ],
+              "optionsKn": [
+                "ನಾಲ್ಕು",
+                "ಎಂಟು (ಅಷ್ಟದಿಗ್ಗಜ)",
+                "ಒಂಬತ್ತು",
+                "ಹನ್ನೆರಡು"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What is Hampi's UNESCO status?",
+              "questionKn": "What is Hampi's UNESCO status?",
+              "options": [
+                "Natural Heritage",
+                "World Heritage Site",
+                "Cultural Capital",
+                "Peace Zone"
+              ],
+              "optionsKn": [
+                "ನೈಸರ್ಗಿಕ ಪರಂಪರೆ",
+                "ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ",
+                "ಸಾಂಸ್ಕೃತಿಕ ರಾಜಧಾನಿ",
+                "ಶಾಂತಿ ವಲಯ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_krishnadevaraya",
+          "badgeNameEn": "Vijayanagara Crown",
+          "badgeNameKn": "ವಿಜಯನಗರ ಕಿರೀಟ",
+          "statueLocation": {
+            "nameEn": "Hampi Vijayanagara Ruins",
+            "nameKn": "ಹಂಪಿ ವಿಜಯನಗರ ಅವಶೇಷ",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "address": "Hampi, Ballari",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hampi"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "koppal",
+      "districtName": "Koppal",
+      "districtNameKn": "ಕೊಪ್ಪಳ",
+      "colorHex": "#A04000",
+      "latitude": 15.3508,
+      "longitude": 76.1547,
+      "heroes": [
+        {
+          "heroId": "kanaka_dasa",
+          "nameEn": "Kanaka Dasa",
+          "nameKn": "ಕನಕದಾಸ",
+          "era": "1509-1609 CE",
+          "category": "Saint Poet",
+          "categoryKn": "ಸಂತ ಕವಿ",
+          "taglineEn": "Saint Poet of Equality",
+          "taglineKn": "ಸಮಾನತೆಯ ಸಂತ ಕವಿ",
+          "imageEmoji": "🎶",
+          "colorHex": "#A04000",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Divine Poet",
+              "titleKn": "ದೈವಿ ಕವಿ",
+              "contentEn": "Kanaka Dasa was born in 1509 in Bada village near Haveri. A Haridasa saint poet, he composed devotional Kirtanas challenging caste discrimination and preaching equality before God.",
+              "contentKn": "ಕನಕದಾಸ 1509 ರಲ್ಲಿ ಹಾವೇರಿ ಸಮೀಪ ಬಾಡ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿ ಜಾತಿ ತಾರತಮ್ಯ ವಿರುದ್ಧ ಕೀರ್ತನೆ ರಚಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "The Miracle of Udupi",
+              "titleKn": "ಉಡುಪಿ ಪವಾಡ",
+              "contentEn": "When denied entry to the Udupi Krishna temple due to caste, the temple wall broke open so Lord Krishna could give him darshan. This crack is still visible and called 'Kanakana Kindi'.",
+              "contentKn": "ಜಾತಿ ಕಾರಣಕ್ಕೆ ಮಂದಿರ ಪ್ರವೇಶ ನಿರಾಕರಿಸಲ್ಪಟ್ಟಾಗ ಗೋಡೆ ಒಡೆದು ಕೃಷ್ಣ ದರ್ಶನ ನೀಡಿದನಂತೆ. ಈ 'ಕನಕನ ಕಿಂಡಿ' ಇಂದಿಗೂ ಕಾಣಿಸುತ್ತದೆ."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "His Legacy",
+              "titleKn": "ಅವರ ಪರಂಪರೆ",
+              "contentEn": "Kanaka Dasa's kirtanas are still sung across Karnataka. His life symbolizes the triumph of devotion over caste prejudice. He wrote philosophical works including Mohanatarangini.",
+              "contentKn": "ಕನಕದಾಸರ ಕೀರ್ತನೆಗಳು ಇಂದಿಗೂ ಕರ್ನಾಟಕದಲ್ಲಿ ಹಾಡಲ್ಪಡುತ್ತವೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is 'Kanakana Kindi'?",
+              "questionKn": "What is 'Kanakana Kindi'?",
+              "options": [
+                "Kanaka's home",
+                "Crack in Udupi temple wall",
+                "A famous song",
+                "A garland"
+              ],
+              "optionsKn": [
+                "ಕನಕದಾಸರ ಮನೆ",
+                "ಉಡುಪಿ ಮಂದಿರ ಗೋಡೆ ಬಿರುಕು",
+                "ಪ್ರಸಿದ್ಧ ಹಾಡು",
+                "ಹೂಮಾಲೆ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What type of songs did Kanaka Dasa compose?",
+              "questionKn": "What type of songs did Kanaka Dasa compose?",
+              "options": [
+                "Vachanas",
+                "Kirtanas",
+                "Javali",
+                "Padam"
+              ],
+              "optionsKn": [
+                "ವಚನ",
+                "ಕೀರ್ತನೆ",
+                "ಜಾವಳಿ",
+                "ಪದಂ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Where was Kanaka Dasa denied entry?",
+              "questionKn": "Where was Kanaka Dasa denied entry?",
+              "options": [
+                "Hampi Temple",
+                "Udupi Krishna Temple",
+                "Sringeri",
+                "Dharmasthala"
+              ],
+              "optionsKn": [
+                "ಹಂಪಿ",
+                "ಉಡುಪಿ ಕೃಷ್ಣ ಮಂದಿರ",
+                "ಶೃಂಗೇರಿ",
+                "ಧರ್ಮಸ್ಥಳ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_kanakadasa",
+          "badgeNameEn": "Kanaka's Devotion",
+          "badgeNameKn": "ಕನಕದಾಸ ಭಕ್ತಿ",
+          "statueLocation": {
+            "nameEn": "Kanaka Dasa Birthplace Kaginele",
+            "nameKn": "ಕನಕದಾಸ ಜನ್ಮಸ್ಥಳ ಕಾಗಿನೆಲೆ",
+            "latitude": 14.8167,
+            "longitude": 75.65,
+            "address": "Kaginele, Haveri",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kanakadasa"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "mandya",
+      "districtName": "Mandya",
+      "districtNameKn": "ಮಂಡ್ಯ",
+      "colorHex": "#117A65",
+      "latitude": 12.5244,
+      "longitude": 76.8961,
+      "heroes": [
+        {
+          "heroId": "m_visvesvaraya",
+          "nameEn": "Sir M. Visvesvaraya",
+          "nameKn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+          "era": "1861-1962",
+          "category": "Engineer",
+          "categoryKn": "ಎಂಜಿನಿಯರ್",
+          "taglineEn": "Bharat Ratna Engineer of India",
+          "taglineKn": "ಭಾರತ ರತ್ನ ಎಂಜಿನಿಯರ್",
+          "imageEmoji": "⚙️",
+          "colorHex": "#117A65",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Engineer Who Built a Nation",
+              "titleKn": "ರಾಷ್ಟ್ರ ನಿರ್ಮಿಸಿದ ಎಂಜಿನಿಯರ್",
+              "contentEn": "Sir Mokshagundam Visvesvaraya was born September 15, 1861 in Muddenahalli, Chikkaballapur. India's most celebrated civil engineer — his birthday is celebrated as Engineers' Day.",
+              "contentKn": "ಸರ್ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಸೆಪ್ಟೆಂಬರ್ 15, 1861 ರಂದು ಮುದ್ದೇನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಅವರ ಜನ್ಮದಿನ ಭಾರತದ ಎಂಜಿನಿಯರ್ಸ್ ಡೇ."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "KRS Dam",
+              "titleKn": "KRS ಅಣೆಕಟ್ಟು",
+              "contentEn": "As Diwan of Mysore, he built the Krishna Raja Sagara (KRS) Dam — still one of India's largest — transforming Karnataka's agriculture. He also established UVCE and the Bank of Mysore.",
+              "contentKn": "ಮೈಸೂರು ದಿವಾನರಾಗಿ KRS ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಿ ಕರ್ನಾಟಕ ಕೃಷಿ ಕ್ರಾಂತಿ ತಂದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Bharat Ratna at 99",
+              "titleKn": "99ರ ವಯಸ್ಸಿನಲ್ಲಿ ಭಾರತ ರತ್ನ",
+              "contentEn": "Visvesvaraya received the Bharat Ratna at age 99. He lived to 101 and worked tirelessly into old age. His motto 'Work while you work, play while you play' inspired generations.",
+              "contentKn": "99 ವರ್ಷ ವಯಸ್ಸಿನಲ್ಲಿ ಭಾರತ ರತ್ನ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಅವರು 101 ವರ್ಷ ಬದುಕಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "When is Engineers' Day in India?",
+              "questionKn": "When is Engineers' Day in India?",
+              "options": [
+                "August 15",
+                "September 15",
+                "October 15",
+                "November 15"
+              ],
+              "optionsKn": [
+                "ಆಗಸ್ಟ್ 15",
+                "ಸೆಪ್ಟೆಂಬರ್ 15",
+                "ಅಕ್ಟೋಬರ್ 15",
+                "ನವೆಂಬರ್ 15"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which dam did Visvesvaraya build?",
+              "questionKn": "Which dam did Visvesvaraya build?",
+              "options": [
+                "Tungabhadra",
+                "KRS Dam",
+                "Alamatti",
+                "Narayanapura"
+              ],
+              "optionsKn": [
+                "ತುಂಗಭದ್ರಾ",
+                "KRS ಅಣೆಕಟ್ಟು",
+                "ಆಲಮಟ್ಟಿ",
+                "ನಾರಾಯಣಪುರ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What honor did he receive at age 99?",
+              "questionKn": "What honor did he receive at age 99?",
+              "options": [
+                "Padma Vibhushan",
+                "Bharat Ratna",
+                "Jnanpith",
+                "Rajyotsava"
+              ],
+              "optionsKn": [
+                "ಪದ್ಮ ವಿಭೂಷಣ",
+                "ಭಾರತ ರತ್ನ",
+                "ಜ್ಞಾನಪೀಠ",
+                "ರಾಜ್ಯೋತ್ಸವ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_mvv",
+          "badgeNameEn": "Engineer's Medal",
+          "badgeNameKn": "ಎಂಜಿನಿಯರ್ ಪದಕ",
+          "statueLocation": {
+            "nameEn": "KRS Dam Mandya",
+            "nameKn": "KRS ಅಣೆಕಟ್ಟು ಮಂಡ್ಯ",
+            "latitude": 12.4244,
+            "longitude": 76.5714,
+            "address": "KRS Dam, Mandya",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Krishna_Raja_Sagara_dam"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "chamarajanagar",
+      "districtName": "Chamarajanagar",
+      "districtNameKn": "ಚಾಮರಾಜನಗರ",
+      "colorHex": "#5D6D7E",
+      "latitude": 11.9237,
+      "longitude": 76.9437,
+      "heroes": [
+        {
+          "heroId": "siddaiah_puranapanda",
+          "nameEn": "Siddaiah Puranapanda",
+          "nameKn": "ಸಿದ್ದಯ್ಯ ಪುರಾಣಪಂಡ",
+          "era": "20th Century",
+          "category": "Scholar",
+          "categoryKn": "ವಿದ್ವಾಂಸ",
+          "taglineEn": "Literary Voice of Chamarajanagar",
+          "taglineKn": "ಚಾಮರಾಜನಗರದ ಸಾಹಿತ್ಯ ಧ್ವನಿ",
+          "imageEmoji": "📖",
+          "colorHex": "#5D6D7E",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Scholar from the South",
+              "titleKn": "ದಕ್ಷಿಣದ ವಿದ್ವಾಂಸ",
+              "contentEn": "Siddaiah Puranapanda was a celebrated Kannada scholar and poet from Chamarajanagar. He dedicated his life to preserving classical Kannada literature.",
+              "contentKn": "ಸಿದ್ದಯ್ಯ ಪುರಾಣಪಂಡ ಚಾಮರಾಜನಗರದ ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ವಿದ್ವಾಂಸ. ಶಾಸ್ತ್ರೀಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂರಕ್ಷಣೆಗೆ ಜೀವ ಮೀಸಲಿಟ್ಟರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Preserving Culture",
+              "titleKn": "ಸಂಸ್ಕೃತಿ ಸಂರಕ್ಷಣೆ",
+              "contentEn": "He documented folk traditions, classical poetry and cultural heritage of the Chamarajanagar region, ensuring these treasures were not lost to future generations.",
+              "contentKn": "ಜಾನಪದ ಸಂಪ್ರದಾಯ ಮತ್ತು ಶಾಸ್ತ್ರೀಯ ಕಾವ್ಯ ಭವಿಷ್ಯ ಜನಾಂಗಕ್ಕೆ ಉಳಿಸಲು ದಾಖಲಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Eternal Legacy",
+              "titleKn": "ಅಮರ ಪರಂಪರೆ",
+              "contentEn": "His works guide Kannada students and scholars to this day. He is remembered as a pillar of Kannada culture who inspired pride in linguistic heritage.",
+              "contentKn": "ಅವರ ಕೃತಿಗಳು ಕನ್ನಡ ವಿದ್ಯಾರ್ಥಿ ಮತ್ತು ವಿದ್ವಾಂಸರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಿವೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What did Siddaiah work to preserve?",
+              "questionKn": "What did Siddaiah work to preserve?",
+              "options": [
+                "Wildlife",
+                "Classical Kannada Literature",
+                "Agriculture",
+                "Architecture"
+              ],
+              "optionsKn": [
+                "ವನ್ಯಜೀವಿ",
+                "ಶಾಸ್ತ್ರೀಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+                "ಕೃಷಿ",
+                "ವಾಸ್ತುಶಿಲ್ಪ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which district is he from?",
+              "questionKn": "Which district is he from?",
+              "options": [
+                "Mysuru",
+                "Mandya",
+                "Chamarajanagar",
+                "Hassan"
+              ],
+              "optionsKn": [
+                "ಮೈಸೂರು",
+                "ಮಂಡ್ಯ",
+                "ಚಾಮರಾಜನಗರ",
+                "ಹಾಸನ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "What type of traditions did he document?",
+              "questionKn": "What type of traditions did he document?",
+              "options": [
+                "Modern cinema",
+                "Folk traditions",
+                "Sports",
+                "Science"
+              ],
+              "optionsKn": [
+                "ಆಧುನಿಕ ಚಲನಚಿತ್ರ",
+                "ಜಾನಪದ ಸಂಪ್ರದಾಯ",
+                "ಕ್ರೀಡೆ",
+                "ವಿಜ್ಞಾನ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_puranapanda",
+          "badgeNameEn": "Literary Star",
+          "badgeNameKn": "ಸಾಹಿತ್ಯ ತಾರೆ",
+          "statueLocation": {
+            "nameEn": "Chamarajanagar Town",
+            "nameKn": "ಚಾಮರಾಜನಗರ",
+            "latitude": 11.9237,
+            "longitude": 76.9437,
+            "address": "Chamarajanagar, Karnataka",
+            "wikipediaUrl": null
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "kodagu",
+      "districtName": "Kodagu",
+      "districtNameKn": "ಕೊಡಗು",
+      "colorHex": "#1E8449",
+      "latitude": 12.3375,
+      "longitude": 75.8069,
+      "heroes": [
+        {
+          "heroId": "field_marshal_cariappa",
+          "nameEn": "Field Marshal K.M. Cariappa",
+          "nameKn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ.ಎಂ. ಕಾರಿಯಪ್ಪ",
+          "era": "1899-1993",
+          "category": "Military Hero",
+          "categoryKn": "ಸೇನಾ ನಾಯಕ",
+          "taglineEn": "First Commander-in-Chief of Indian Army",
+          "taglineKn": "ಭಾರತೀಯ ಸೇನೆ ಮೊದಲ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್",
+          "imageEmoji": "🎖️",
+          "colorHex": "#1E8449",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Son of Kodagu",
+              "titleKn": "ಕೊಡಗಿನ ಮಗ",
+              "contentEn": "Field Marshal Kodandera Madappa Cariappa was born January 28, 1899 in Shanivarsante, Kodagu. He joined the British Indian Army and rose to become the most celebrated soldier from Karnataka.",
+              "contentKn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕಾರಿಯಪ್ಪ ಜನವರಿ 28, 1899 ರಂದು ಕೊಡಗು ಶನಿವಾರ್ಸಂತೆಯಲ್ಲಿ ಜನಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "First Commander-in-Chief",
+              "titleKn": "ಮೊದಲ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್",
+              "contentEn": "On January 15, 1949, Cariappa became the first Indian Commander-in-Chief of the Indian Army — now celebrated as Army Day. He led Indian forces during the 1947 Indo-Pakistani War.",
+              "contentKn": "ಜನವರಿ 15, 1949 ರಂದು ಭಾರತೀಯ ಸೇನೆ ಮೊದಲ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್ ಆದರು. ಈ ದಿನ ಸೇನಾ ದಿನ."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Field Marshal Honor",
+              "titleKn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್",
+              "contentEn": "In 1986, Cariappa was awarded Field Marshal — the highest rank in the Indian Army. Only the second person to receive this honor, he passed away in 1993 at age 94.",
+              "contentKn": "1986 ರಲ್ಲಿ ಭಾರತೀಯ ಸೇನೆಯ ಅತ್ಯುನ್ನತ ಶ್ರೇಣಿ ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ನೀಡಲಾಯಿತು. 1993 ರಲ್ಲಿ 94 ವರ್ಷ ವಯಸ್ಸಿನಲ್ಲಿ ನಿಧನ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "When is Army Day celebrated in India?",
+              "questionKn": "When is Army Day celebrated in India?",
+              "options": [
+                "January 1",
+                "January 15",
+                "January 26",
+                "August 15"
+              ],
+              "optionsKn": [
+                "ಜನವರಿ 1",
+                "ಜನವರಿ 15",
+                "ಜನವರಿ 26",
+                "ಆಗಸ್ಟ್ 15"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What was Cariappa's highest rank?",
+              "questionKn": "What was Cariappa's highest rank?",
+              "options": [
+                "General",
+                "Lieutenant General",
+                "Field Marshal",
+                "Admiral"
+              ],
+              "optionsKn": [
+                "ಜನರಲ್",
+                "ಲೆಫ್ಟಿನೆಂಟ್ ಜನರಲ್",
+                "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್",
+                "ಅಡ್ಮಿರಲ್"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "Which district is Cariappa from?",
+              "questionKn": "Which district is Cariappa from?",
+              "options": [
+                "Mysuru",
+                "Hassan",
+                "Kodagu",
+                "Dakshina Kannada"
+              ],
+              "optionsKn": [
+                "ಮೈಸೂರು",
+                "ಹಾಸನ",
+                "ಕೊಡಗು",
+                "ದಕ್ಷಿಣ ಕನ್ನಡ"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_cariappa",
+          "badgeNameEn": "Cariappa's Medal",
+          "badgeNameKn": "ಕಾರಿಯಪ್ಪ ಪದಕ",
+          "statueLocation": {
+            "nameEn": "Cariappa Memorial Madikeri",
+            "nameKn": "ಕಾರಿಯಪ್ಪ ಸ್ಮಾರಕ ಮಡಿಕೇರಿ",
+            "latitude": 12.4244,
+            "longitude": 75.7382,
+            "address": "Madikeri, Kodagu",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/K._M._Cariappa"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "chikkamagaluru",
+      "districtName": "Chikkamagaluru",
+      "districtNameKn": "ಚಿಕ್ಕಮಗಳೂರು",
+      "colorHex": "#1A5276",
+      "latitude": 13.3153,
+      "longitude": 75.7754,
+      "heroes": [
+        {
+          "heroId": "shankaracharya",
+          "nameEn": "Adi Shankaracharya",
+          "nameKn": "ಆದಿ ಶಂಕರಾಚಾರ್ಯ",
+          "era": "788-820 CE",
+          "category": "Philosopher",
+          "categoryKn": "ತತ್ವಜ್ಞಾನಿ",
+          "taglineEn": "Founder of Advaita Vedanta",
+          "taglineKn": "ಅದ್ವೈತ ವೇದಾಂತ ಸ್ಥಾಪಕ",
+          "imageEmoji": "🕉️",
+          "colorHex": "#1A5276",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Child Prodigy",
+              "titleKn": "ಬಾಲ ಪ್ರತಿಭಾವಂತ",
+              "contentEn": "Adi Shankaracharya was born in 788 CE in Kaladi, Kerala. He established the Sringeri Sharada Peetham in Chikkamagaluru district — one of India's most sacred pilgrimage centers.",
+              "contentKn": "ಆದಿ ಶಂಕರಾಚಾರ್ಯ 788 CE ನಲ್ಲಿ ಕೇರಳ ಕಾಳಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಚಿಕ್ಕಮಗಳೂರಿನ ಶೃಂಗೇರಿ ಶಾರದಾ ಪೀಠ ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Advaita Philosophy",
+              "titleKn": "ಅದ್ವೈತ ತತ್ವ",
+              "contentEn": "Shankaracharya founded Advaita Vedanta — the individual soul and Brahman are ultimately one. He walked all of India debating scholars and unifying Hindu philosophy.",
+              "contentKn": "ಆತ್ಮ ಮತ್ತು ಬ್ರಹ್ಮ ಒಂದೇ ಎಂಬ ಅದ್ವೈತ ತತ್ವ ಸ್ಥಾಪಿಸಿ ಭಾರತದ ನಾಲ್ಕು ದಿಕ್ಕಿನಲ್ಲಿ ಮಠ ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Sringeri Peetham",
+              "titleKn": "ಶೃಂಗೇರಿ ಪೀಠ",
+              "contentEn": "The Sringeri Sharada Peetham in Chikkamagaluru remains an important center of Sanskrit learning for over 1200 years. It is one of the four sacred mathas he established.",
+              "contentKn": "ಚಿಕ್ಕಮಗಳೂರಿನ ಶೃಂಗೇರಿ ಶಾರದಾ ಪೀಠ 1200 ವರ್ಷದ ಸಂಸ್ಕೃತ ಶಿಕ್ಷಣ ಕೇಂದ್ರ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What philosophy did Shankaracharya establish?",
+              "questionKn": "What philosophy did Shankaracharya establish?",
+              "options": [
+                "Dvaita",
+                "Vishishtadvaita",
+                "Advaita",
+                "Shaiva Siddhanta"
+              ],
+              "optionsKn": [
+                "ದ್ವೈತ",
+                "ವಿಶಿಷ್ಟಾದ್ವೈತ",
+                "ಅದ್ವೈತ",
+                "ಶೈವ ಸಿದ್ಧಾಂತ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "Where is Sringeri Sharada Peetham?",
+              "questionKn": "Where is Sringeri Sharada Peetham?",
+              "options": [
+                "Udupi",
+                "Chikkamagaluru",
+                "Dakshina Kannada",
+                "Hassan"
+              ],
+              "optionsKn": [
+                "ಉಡುಪಿ",
+                "ಚಿಕ್ಕಮಗಳೂರು",
+                "ದಕ್ಷಿಣ ಕನ್ನಡ",
+                "ಹಾಸನ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "How many mathas did he establish?",
+              "questionKn": "How many mathas did he establish?",
+              "options": [
+                "Two",
+                "Three",
+                "Four",
+                "Eight"
+              ],
+              "optionsKn": [
+                "ಎರಡು",
+                "ಮೂರು",
+                "ನಾಲ್ಕು",
+                "ಎಂಟು"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_shankara",
+          "badgeNameEn": "Shankara's Light",
+          "badgeNameKn": "ಶಂಕರರ ಜ್ಞಾನ",
+          "statueLocation": {
+            "nameEn": "Sringeri Sharada Peetham",
+            "nameKn": "ಶೃಂಗೇರಿ ಶಾರದಾ ಪೀಠ",
+            "latitude": 13.4174,
+            "longitude": 75.2533,
+            "address": "Sringeri, Chikkamagaluru",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sringeri_Sharada_Peetham"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "chikkaballapur",
+      "districtName": "Chikkaballapur",
+      "districtNameKn": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+      "colorHex": "#6E2F7A",
+      "latitude": 13.4353,
+      "longitude": 77.727,
+      "heroes": [
+        {
+          "heroId": "mvv_birthplace",
+          "nameEn": "Visvesvaraya Birthplace",
+          "nameKn": "ವಿಶ್ವೇಶ್ವರಯ್ಯ ಜನ್ಮಭೂಮಿ",
+          "era": "1861-1962",
+          "category": "Engineer",
+          "categoryKn": "ಎಂಜಿನಿಯರ್",
+          "taglineEn": "Muddenahalli — Birthplace of India's Greatest Engineer",
+          "taglineKn": "ಮುದ್ದೇನಹಳ್ಳಿ — ಭಾರತ ಮಹಾ ಎಂಜಿನಿಯರ್ ಜನ್ಮಭೂಮಿ",
+          "imageEmoji": "⚙️",
+          "colorHex": "#6E2F7A",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Muddenahalli's Pride",
+              "titleKn": "ಮುದ್ದೇನಹಳ್ಳಿಯ ಹೆಮ್ಮೆ",
+              "contentEn": "Sir M. Visvesvaraya was born September 15, 1861 in Muddenahalli, Chikkaballapur district. The village is now a heritage site with a memorial museum honoring the Bharat Ratna engineer.",
+              "contentKn": "ಸರ್ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಸೆಪ್ಟೆಂಬರ್ 15, 1861 ರಂದು ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಜಿಲ್ಲೆ ಮುದ್ದೇನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "From Village to Bharat Ratna",
+              "titleKn": "ಗ್ರಾಮದಿಂದ ಭಾರತ ರತ್ನ",
+              "contentEn": "From Muddenahalli, Visvesvaraya became Diwan of Mysore and built world-famous dams. His journey from a village boy to Bharat Ratna inspires every Indian child.",
+              "contentKn": "ಮುದ್ದೇನಹಳ್ಳಿಯ ಮಗ ಮೈಸೂರು ದಿವಾನರಾಗಿ ವಿಶ್ವ ಪ್ರಸಿದ್ಧ ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Muddenahalli Museum",
+              "titleKn": "ಮುದ್ದೇನಹಳ್ಳಿ ವಸ್ತು ಸಂಗ್ರಹಾಲಯ",
+              "contentEn": "The Sir M. Visvesvaraya Memorial at Muddenahalli is a heritage museum visited by thousands of school children yearly — proving great engineers can come from the smallest villages.",
+              "contentKn": "ಮುದ್ದೇನಹಳ್ಳಿ ಸ್ಮಾರಕ ವಸ್ತು ಸಂಗ್ರಹಾಲಯ ಪ್ರತಿ ವರ್ಷ ಸಾವಿರಾರು ಶಾಲಾ ಮಕ್ಕಳಿಗೆ ಸ್ಫೂರ್ತಿ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "In which village was Visvesvaraya born?",
+              "questionKn": "In which village was Visvesvaraya born?",
+              "options": [
+                "Kengal",
+                "Muddenahalli",
+                "Pavagada",
+                "Gauribidanur"
+              ],
+              "optionsKn": [
+                "ಕೆಂಗಲ್",
+                "ಮುದ್ದೇನಹಳ್ಳಿ",
+                "ಪಾವಗಡ",
+                "ಗೌರಿಬಿದನೂರು"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which district is Muddenahalli in?",
+              "questionKn": "Which district is Muddenahalli in?",
+              "options": [
+                "Bangalore Rural",
+                "Chikkaballapur",
+                "Tumakuru",
+                "Mandya"
+              ],
+              "optionsKn": [
+                "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+                "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+                "ತುಮಕೂರು",
+                "ಮಂಡ್ಯ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What is at Muddenahalli today?",
+              "questionKn": "What is at Muddenahalli today?",
+              "options": [
+                "Rajyotsava",
+                "Visvesvaraya Memorial Museum",
+                "Science Fair",
+                "Arts Festival"
+              ],
+              "optionsKn": [
+                "ರಾಜ್ಯೋತ್ಸವ",
+                "ವಿಶ್ವೇಶ್ವರಯ್ಯ ಸ್ಮಾರಕ",
+                "ವಿಜ್ಞಾನ ಮೇಳ",
+                "ಕಲಾ ಉತ್ಸವ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_muddenahalli",
+          "badgeNameEn": "Heritage Village Badge",
+          "badgeNameKn": "ಪರಂಪರೆ ಗ್ರಾಮ ಬ್ಯಾಡ್ಜ್",
+          "statueLocation": {
+            "nameEn": "Visvesvaraya Memorial Muddenahalli",
+            "nameKn": "ವಿಶ್ವೇಶ್ವರಯ್ಯ ಸ್ಮಾರಕ ಮುದ್ದೇನಹಳ್ಳಿ",
+            "latitude": 13.3351,
+            "longitude": 77.5211,
+            "address": "Muddenahalli, Chikkaballapur",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/M._Visvesvaraya"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "bengaluru_rural",
+      "districtName": "Bengaluru Rural",
+      "districtNameKn": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+      "colorHex": "#884EA0",
+      "latitude": 13.2257,
+      "longitude": 77.5736,
+      "heroes": [
+        {
+          "heroId": "kempe_gowda",
+          "nameEn": "Kempe Gowda I",
+          "nameKn": "ಕೆಂಪೇಗೌಡ I",
+          "era": "1510-1569 CE",
+          "category": "Founder",
+          "categoryKn": "ಸ್ಥಾಪಕ",
+          "taglineEn": "Founder of Bengaluru",
+          "taglineKn": "ಬೆಂಗಳೂರು ಸ್ಥಾಪಕ",
+          "imageEmoji": "🏙️",
+          "colorHex": "#884EA0",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Founder of Bengaluru",
+              "titleKn": "ಬೆಂಗಳೂರು ಸ್ಥಾಪಕ",
+              "contentEn": "Kempe Gowda I was a chieftain of Yelahanka Nadu who founded Bengaluru in 1537 CE. He built a mud fort and bustling market town that eventually became the Silicon Valley of India.",
+              "contentKn": "ಕೆಂಪೇಗೌಡ I 1537 CE ನಲ್ಲಿ ಬೆಂಗಳೂರು ಸ್ಥಾಪಿಸಿದರು. ಮಣ್ಣಿನ ಕೋಟೆ ಮತ್ತು ಪೇಟೆ ನಿರ್ಮಿಸಿ ಬೆಂಗಳೂರಿಗೆ ಅಡಿಗಲ್ಲು ಹಾಕಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Building the City",
+              "titleKn": "ನಗರ ನಿರ್ಮಾಣ",
+              "contentEn": "Kempe Gowda built temples, tanks and the original Bengaluru Fort. He erected four watchtowers marking city limits — still standing today — iconic symbols of Bengaluru.",
+              "contentKn": "ಅನೇಕ ದೇವಾಲಯ, ಕೆರೆ ಮತ್ತು ಕೋಟೆ ನಿರ್ಮಿಸಿ ನಗರ ಗಡಿ ಗುರುತಿಸಲು ನಾಲ್ಕು ಕಾವಲು ಗೋಪುರ ನಿರ್ಮಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Legacy Lives On",
+              "titleKn": "ಪರಂಪರೆ ಜೀವಂತ",
+              "contentEn": "Kempe Gowda's statue stands at Bengaluru International Airport welcoming visitors. His four watchtowers at Lalbagh, Ulsoor, Mekhri Circle and Yelahanka still stand.",
+              "contentKn": "ಕೆಂಪೇಗೌಡರ ಪ್ರತಿಮೆ ಬೆಂಗಳೂರು ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಸ್ವಾಗತ ಕೋರುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "Who founded Bengaluru?",
+              "questionKn": "Who founded Bengaluru?",
+              "options": [
+                "Tipu Sultan",
+                "Hyder Ali",
+                "Kempe Gowda I",
+                "Krishnadevaraya"
+              ],
+              "optionsKn": [
+                "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+                "ಹೈದರ್ ಅಲಿ",
+                "ಕೆಂಪೇಗೌಡ I",
+                "ಕೃಷ್ಣದೇವರಾಯ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "In which year did Kempe Gowda found Bengaluru?",
+              "questionKn": "In which year did Kempe Gowda found Bengaluru?",
+              "options": [
+                "1499",
+                "1510",
+                "1537",
+                "1565"
+              ],
+              "optionsKn": [
+                "1499",
+                "1510",
+                "1537",
+                "1565"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "Where is Kempe Gowda's statue today?",
+              "questionKn": "Where is Kempe Gowda's statue today?",
+              "options": [
+                "Lalbagh",
+                "Cubbon Park",
+                "Bengaluru Airport",
+                "Vidhana Soudha"
+              ],
+              "optionsKn": [
+                "ಲಾಲ್ ಬಾಗ್",
+                "ಕಬ್ಬನ್ ಪಾರ್ಕ್",
+                "ಬೆಂಗಳೂರು ವಿಮಾನ ನಿಲ್ದಾಣ",
+                "ವಿಧಾನಸೌಧ"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_kempegowda",
+          "badgeNameEn": "City Founder Badge",
+          "badgeNameKn": "ನಗರ ಸ್ಥಾಪಕ ಬ್ಯಾಡ್ಜ್",
+          "statueLocation": {
+            "nameEn": "Kempe Gowda Statue Bengaluru Airport",
+            "nameKn": "ಕೆಂಪೇಗೌಡ ಪ್ರತಿಮೆ",
+            "latitude": 13.1986,
+            "longitude": 77.7066,
+            "address": "Kempegowda International Airport",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kempegowda_International_Airport"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "ramanagara",
+      "districtName": "Ramanagara",
+      "districtNameKn": "ರಾಮನಗರ",
+      "colorHex": "#E8553E",
+      "latitude": 12.7157,
+      "longitude": 77.2801,
+      "heroes": [
+        {
+          "heroId": "ramnagara_silk",
+          "nameEn": "Silk City Heritage",
+          "nameKn": "ರೇಷ್ಮೆ ನಗರ ಪರಂಪರೆ",
+          "era": "Ancient-Present",
+          "category": "Cultural Heritage",
+          "categoryKn": "ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ",
+          "taglineEn": "Silk Weavers of Karnataka",
+          "taglineKn": "ಕರ್ನಾಟಕದ ರೇಷ್ಮೆ ನೇಕಾರರು",
+          "imageEmoji": "🪡",
+          "colorHex": "#E8553E",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Silk Capital",
+              "titleKn": "ರೇಷ್ಮೆ ರಾಜಧಾನಿ",
+              "contentEn": "Ramanagara is known as the Silk City of India. The skilled silk weavers of this district have maintained their ancient craft for generations producing Karnataka's famous Mysore silk.",
+              "contentKn": "ರಾಮನಗರ ಭಾರತದ ರೇಷ್ಮೆ ನಗರ. ಜಿಲ್ಲೆಯ ನೇಕಾರರು ಪ್ರಸಿದ್ಧ ಮೈಸೂರು ರೇಷ್ಮೆ ಉತ್ಪಾದಿಸಿ ವಿಶ್ವ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಕರ್ನಾಟಕ ಹೆಸರು ಪ್ರಚಾರ ಮಾಡುತ್ತಾರೆ."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Ancient Craft Preserved",
+              "titleKn": "ಪ್ರಾಚೀನ ಕಲೆ ಸಂರಕ್ಷಿತ",
+              "contentEn": "The silk weavers of Ramanagara preserved the traditional art of silk weaving through centuries of invasions and modernization. Their resilience is a testament to Karnataka's cultural strength.",
+              "contentKn": "ಶತಮಾನಗಳ ಅಡೆತಡೆ ನಡುವೆ ಸಾಂಪ್ರದಾಯಿಕ ರೇಷ್ಮೆ ನೇಕಾರ ಕಲೆ ಸಂರಕ್ಷಿಸಿದ್ದಾರೆ."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Global Recognition",
+              "titleKn": "ವಿಶ್ವ ಮಾನ್ಯತೆ",
+              "contentEn": "Mysore Silk from Ramanagara has a Geographical Indication (GI) tag — a mark of authenticity recognized worldwide. This GI tag protects the unique heritage and livelihoods of Karnataka's silk weavers.",
+              "contentKn": "ರಾಮನಗರ ಮೈಸೂರು ರೇಷ್ಮೆ ಭೌಗೋಳಿಕ ಸೂಚನೆ (GI) ಟ್ಯಾಗ್ ಪಡೆದಿದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is Ramanagara known as?",
+              "questionKn": "What is Ramanagara known as?",
+              "options": [
+                "Gold City",
+                "Silk City",
+                "Spice City",
+                "Cotton City"
+              ],
+              "optionsKn": [
+                "ಚಿನ್ನದ ನಗರ",
+                "ರೇಷ್ಮೆ ನಗರ",
+                "ಮಸಾಲೆ ನಗರ",
+                "ಹತ್ತಿ ನಗರ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What GI tag does Mysore Silk have?",
+              "questionKn": "What GI tag does Mysore Silk have?",
+              "options": [
+                "ISO",
+                "GI Tag",
+                "BIS",
+                "FSSAI"
+              ],
+              "optionsKn": [
+                "ISO",
+                "GI ಟ್ಯಾಗ್",
+                "BIS",
+                "FSSAI"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which silk is famous from this district?",
+              "questionKn": "Which silk is famous from this district?",
+              "options": [
+                "Kanchipuram Silk",
+                "Mysore Silk",
+                "Banarasi Silk",
+                "Chanderi Silk"
+              ],
+              "optionsKn": [
+                "ಕಾಂಚೀಪುರಂ ರೇಷ್ಮೆ",
+                "ಮೈಸೂರು ರೇಷ್ಮೆ",
+                "ಬನಾರಸಿ ರೇಷ್ಮೆ",
+                "ಚಂದೇರಿ ರೇಷ್ಮೆ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_silk",
+          "badgeNameEn": "Silk Heritage Badge",
+          "badgeNameKn": "ರೇಷ್ಮೆ ಪರಂಪರೆ ಬ್ಯಾಡ್ಜ್",
+          "statueLocation": {
+            "nameEn": "Ramanagara Silk Market",
+            "nameKn": "ರಾಮನಗರ ರೇಷ್ಮೆ ಮಾರುಕಟ್ಟೆ",
+            "latitude": 12.7157,
+            "longitude": 77.2801,
+            "address": "Ramanagara, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mysore_silk"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "kolar",
+      "districtName": "Kolar",
+      "districtNameKn": "ಕೋಲಾರ",
+      "colorHex": "#B7950B",
+      "latitude": 13.1368,
+      "longitude": 78.1332,
+      "heroes": [
+        {
+          "heroId": "srinivasaiah_kgf",
+          "nameEn": "T. Srinivasaiah",
+          "nameKn": "ಟಿ. ಶ್ರೀನಿವಾಸಯ್ಯ",
+          "era": "1886-1932",
+          "category": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "KGF Freedom Fighter",
+          "taglineKn": "KGF ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "imageEmoji": "⛏️",
+          "colorHex": "#B7950B",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Kolar Gold Fields",
+              "titleKn": "ಕೋಲಾರ ಚಿನ್ನದ ಗಣಿ",
+              "contentEn": "T. Srinivasaiah was born in 1886 in Kolar, famous for the Kolar Gold Fields (KGF) — among the deepest gold mines in the world. He organized miners to resist British exploitation.",
+              "contentKn": "ಟಿ. ಶ್ರೀನಿವಾಸಯ್ಯ 1886 ರಲ್ಲಿ KGF ಕೋಲಾರದಲ್ಲಿ ಜನಿಸಿ ಬ್ರಿಟಿಷ್ ಶೋಷಣೆ ವಿರುದ್ಧ ಗಣಿ ಕಾರ್ಮಿಕರ ಸಂಘಟಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Workers Rights Champion",
+              "titleKn": "ಕಾರ್ಮಿಕ ಹಕ್ಕು ಹೋರಾಟ",
+              "contentEn": "Srinivasaiah championed workers' rights at KGF mines, organizing strikes against dangerous conditions and unfair wages. He worked alongside Gandhiji's Non-Cooperation Movement in Karnataka.",
+              "contentKn": "KGF ಕಾರ್ಮಿಕರ ಹಕ್ಕಿಗಾಗಿ ಮುಷ್ಕರ ಸಂಘಟಿಸಿ ಗಾಂಧೀಜಿ ಅಸಹಕಾರ ಚಳವಳಿಯಲ್ಲಿ ಸಕ್ರಿಯರಾಗಿದ್ದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Martyr's End",
+              "titleKn": "ಹುತಾತ್ಮನ ಅಂತ್ಯ",
+              "contentEn": "Imprisoned multiple times for activism, Srinivasaiah died in 1932 fighting for India's freedom and workers' rights — a martyr Kolar still remembers with pride.",
+              "contentKn": "ಹೋರಾಟಕ್ಕಾಗಿ ಹಲವಾರು ಬಾರಿ ಸೆರೆ ಸೇರಿ 1932 ರಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದಲ್ಲಿ ಮರಣ ಹೊಂದಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is KGF famous for?",
+              "questionKn": "What is KGF famous for?",
+              "options": [
+                "Silver",
+                "Gold Mines",
+                "Diamonds",
+                "Coal"
+              ],
+              "optionsKn": [
+                "ಬೆಳ್ಳಿ",
+                "ಚಿನ್ನದ ಗಣಿ",
+                "ವಜ್ರ",
+                "ಕಲ್ಲಿದ್ದಲು"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which movement did Srinivasaiah join?",
+              "questionKn": "Which movement did Srinivasaiah join?",
+              "options": [
+                "Quit India",
+                "Non-Cooperation",
+                "Civil Disobedience",
+                "Dandi March"
+              ],
+              "optionsKn": [
+                "ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ",
+                "ಅಸಹಕಾರ ಚಳವಳಿ",
+                "ಅಸಹಕಾರ ಅಭಿಯಾನ",
+                "ದಂಡಿ ಮೆರವಣಿಗೆ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What rights did he fight for?",
+              "questionKn": "What rights did he fight for?",
+              "options": [
+                "Farmers",
+                "Workers",
+                "Women",
+                "Children"
+              ],
+              "optionsKn": [
+                "ರೈತ",
+                "ಕಾರ್ಮಿಕ",
+                "ಮಹಿಳೆ",
+                "ಮಕ್ಕಳ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_srinivasaiah",
+          "badgeNameEn": "Gold Field Hero",
+          "badgeNameKn": "ಚಿನ್ನದ ಗಣಿ ವೀರ",
+          "statueLocation": {
+            "nameEn": "Kolar Gold Fields Museum",
+            "nameKn": "KGF ವಸ್ತು ಸಂಗ್ರಹಾಲಯ",
+            "latitude": 12.9558,
+            "longitude": 78.2672,
+            "address": "KGF, Kolar",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kolar_Gold_Fields"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "haveri",
+      "districtName": "Haveri",
+      "districtNameKn": "ಹಾವೇರಿ",
+      "colorHex": "#2471A3",
+      "latitude": 14.796,
+      "longitude": 75.3997,
+      "heroes": [
+        {
+          "heroId": "da_ra_bendre",
+          "nameEn": "D.R. Bendre",
+          "nameKn": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ",
+          "era": "1896-1981",
+          "category": "Poet",
+          "categoryKn": "ಕವಿ",
+          "taglineEn": "Ambikathanayadatta — Karnataka Jnanpith Poet",
+          "taglineKn": "ಅಂಬಿಕಾತನಯದತ್ತ — ಜ್ಞಾನಪೀಠ ಕವಿ",
+          "imageEmoji": "🌸",
+          "colorHex": "#2471A3",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "The Enchanting Poet",
+              "titleKn": "ಮೋಡಿ ಮಾಡುವ ಕವಿ",
+              "contentEn": "D.R. Bendre (Ambikathanayadatta) was born in 1896 in Dharwad. His verses combined folk music, mysticism and deep emotion in a unique style that made him Karnataka's most loved poet.",
+              "contentKn": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ 1896 ರಲ್ಲಿ ಧಾರವಾಡದಲ್ಲಿ ಜನಿಸಿ ಜಾನಪದ, ಆಧ್ಯಾತ್ಮ ಮತ್ತು ಭಾವ ಸಂಯೋಜಿಸಿ ಕಾವ್ಯ ರಚಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Jnanpith Award",
+              "titleKn": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ",
+              "contentEn": "Bendre received the Jnanpith Award in 1973 for 'Naaku Tanti' — only the second Kannada writer to receive India's highest literary honor. His poem 'Haluvina Haadu' is a masterpiece.",
+              "contentKn": "1973 ರಲ್ಲಿ 'ನಾಕು ತಂತಿ' ಕೃತಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಎರಡನೇ ಕನ್ನಡ ಲೇಖಕ."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Musical Legacy",
+              "titleKn": "ಸಂಗೀತ ಪರಂಪರೆ",
+              "contentEn": "Bendre's poems are still sung at cultural events across Karnataka. With over 30 collections, he passed away in 1981 leaving an immortal poetic legacy alive in every Kannadiga's heart.",
+              "contentKn": "30 ಕ್ಕೂ ಹೆಚ್ಚು ಸಂಕಲನ ರಚಿಸಿ 1981 ರಲ್ಲಿ ನಿಧನರಾದ ಬೇಂದ್ರೆ ಕಾವ್ಯ ಇಂದಿಗೂ ಹಾಡಲ್ಪಡುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What is D.R. Bendre's pen name?",
+              "questionKn": "What is D.R. Bendre's pen name?",
+              "options": [
+                "Kuvempu",
+                "Ambikathanayadatta",
+                "Masti",
+                "Panje Mangesh Rao"
+              ],
+              "optionsKn": [
+                "ಕುವೆಂಪು",
+                "ಅಂಬಿಕಾತನಯದತ್ತ",
+                "ಮಾಸ್ತಿ",
+                "ಪಂಜೆ ಮಂಗೇಶ ರಾವ್"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "For which work did Bendre receive Jnanpith?",
+              "questionKn": "For which work did Bendre receive Jnanpith?",
+              "options": [
+                "Sakhigeetha",
+                "Naaku Tanti",
+                "Gari",
+                "Uyyale"
+              ],
+              "optionsKn": [
+                "ಸಖೀಗೀತ",
+                "ನಾಕು ತಂತಿ",
+                "ಗರಿ",
+                "ಉಯ್ಯಾಲೆ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "In which year did Bendre receive the Jnanpith?",
+              "questionKn": "In which year did Bendre receive the Jnanpith?",
+              "options": [
+                "1960",
+                "1967",
+                "1973",
+                "1980"
+              ],
+              "optionsKn": [
+                "1960",
+                "1967",
+                "1973",
+                "1980"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_bendre",
+          "badgeNameEn": "Bendre's Verse",
+          "badgeNameKn": "ಬೇಂದ್ರೆ ಕಾವ್ಯ",
+          "statueLocation": {
+            "nameEn": "D.R. Bendre Memorial Dharwad",
+            "nameKn": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ ಸ್ಮಾರಕ",
+            "latitude": 15.4589,
+            "longitude": 75.0078,
+            "address": "Dharwad, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/D._R._Bendre"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "gadag",
+      "districtName": "Gadag",
+      "districtNameKn": "ಗದಗ",
+      "colorHex": "#7FB3D3",
+      "latitude": 15.4316,
+      "longitude": 75.6155,
+      "heroes": [
+        {
+          "heroId": "akkamahadevi",
+          "nameEn": "Akkamahadevi",
+          "nameKn": "ಅಕ್ಕಮಹಾದೇವಿ",
+          "era": "12th Century",
+          "category": "Saint Poet",
+          "categoryKn": "ಸಂತ ಕವಿ",
+          "taglineEn": "The Fearless Mystic Poet",
+          "taglineKn": "ನಿರ್ಭೀತ ಆಧ್ಯಾತ್ಮ ಕವಿ",
+          "imageEmoji": "🌺",
+          "colorHex": "#7FB3D3",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Devoted to Shiva",
+              "titleKn": "ಶಿವನ ಭಕ್ತ",
+              "contentEn": "Akkamahadevi was a 12th century Kannada saint poet born in Udutadi, Gadag. Devoted to Lord Shiva as 'Chenna Mallikarjuna', she renounced worldly life from childhood for her spiritual journey.",
+              "contentKn": "ಅಕ್ಕಮಹಾದೇವಿ 12ನೇ ಶತಮಾನ ಗದಗ ಉಡುತಡಿಯಲ್ಲಿ ಜನಿಸಿ ಶಿವ ಭಕ್ತಿಯಲ್ಲಿ ಲೋಕವ ತ್ಯಜಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Vachanas of Liberation",
+              "titleKn": "ಮುಕ್ತಿಯ ವಚನ",
+              "contentEn": "Akkamahadevi's vachanas explore divine love, liberation and rejection of social norms. She was a close disciple of Basavanna at Kalyana. Her famous vachanas begin with 'Chenna Mallikarjuna'.",
+              "contentKn": "ಅಕ್ಕಮಹಾದೇವಿ ವಚನಗಳು ದೈವಿ ಪ್ರೀತಿ ಮತ್ತು ಮುಕ್ತಿ ಅನ್ವೇಷಿಸುತ್ತವೆ. ಬಸವಣ್ಣ ಶಿಷ್ಯರಾಗಿ ಕಲ್ಯಾಣದಲ್ಲಿ ಸೇರಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Immortal in Vachana Literature",
+              "titleKn": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಮರ",
+              "contentEn": "Akkamahadevi is one of the greatest figures in Vachana literature and a feminist icon ahead of her time. Her vachanas are taught in schools across Karnataka today.",
+              "contentKn": "ವಚನ ಸಾಹಿತ್ಯದ ಅತ್ಯುನ್ನತ ವ್ಯಕ್ತಿ. ಅವರ ವಚನಗಳು ಕರ್ನಾಟಕ ಶಾಲೆಗಳಲ್ಲಿ ಪಠ್ಯ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What did Akkamahadevi call Lord Shiva?",
+              "questionKn": "What did Akkamahadevi call Lord Shiva?",
+              "options": [
+                "Virupaksha",
+                "Chenna Mallikarjuna",
+                "Ishwara",
+                "Mahadeva"
+              ],
+              "optionsKn": [
+                "ವಿರೂಪಾಕ್ಷ",
+                "ಚೆನ್ನ ಮಲ್ಲಿಕಾರ್ಜುನ",
+                "ಈಶ್ವರ",
+                "ಮಹಾದೇವ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What type of poetry did she write?",
+              "questionKn": "What type of poetry did she write?",
+              "options": [
+                "Shatpadi",
+                "Vachanas",
+                "Champu",
+                "Ragale"
+              ],
+              "optionsKn": [
+                "ಷಟ್ಪದಿ",
+                "ವಚನ",
+                "ಚಂಪೂ",
+                "ರಗಳೆ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Who was Akkamahadevi a disciple of?",
+              "questionKn": "Who was Akkamahadevi a disciple of?",
+              "options": [
+                "Madhvacharya",
+                "Shankaracharya",
+                "Basavanna",
+                "Ramanujacharya"
+              ],
+              "optionsKn": [
+                "ಮಧ್ವಾಚಾರ್ಯ",
+                "ಶಂಕರಾಚಾರ್ಯ",
+                "ಬಸವಣ್ಣ",
+                "ರಾಮಾನುಜಾಚಾರ್ಯ"
+              ],
+              "correctIndex": 2
+            }
+          ],
+          "badgeId": "badge_akkamahadevi",
+          "badgeNameEn": "Akka's Devotion",
+          "badgeNameKn": "ಅಕ್ಕಮಹಾದೇವಿ ಭಕ್ತಿ",
+          "statueLocation": {
+            "nameEn": "Akkamahadevi Statue Gadag",
+            "nameKn": "ಅಕ್ಕಮಹಾದೇವಿ ಪ್ರತಿಮೆ ಗದಗ",
+            "latitude": 15.4316,
+            "longitude": 75.6155,
+            "address": "Gadag, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Akka_Mahadevi"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "bagalkot",
+      "districtName": "Bagalkot",
+      "districtNameKn": "ಬಾಗಲಕೋಟೆ",
+      "colorHex": "#922B21",
+      "latitude": 16.1691,
+      "longitude": 75.6948,
+      "heroes": [
+        {
+          "heroId": "purandaradasa",
+          "nameEn": "Purandaradasa",
+          "nameKn": "ಪುರಂದರದಾಸ",
+          "era": "1484-1564 CE",
+          "category": "Saint Musician",
+          "categoryKn": "ಸಂತ ಸಂಗೀತಗಾರ",
+          "taglineEn": "Father of Carnatic Music",
+          "taglineKn": "ಕರ್ನಾಟಕ ಸಂಗೀತ ಜನಕ",
+          "imageEmoji": "🎼",
+          "colorHex": "#922B21",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Merchant to Saint",
+              "titleKn": "ವ್ಯಾಪಾರಿಯಿಂದ ಸಂತ",
+              "contentEn": "Purandaradasa was born as Srinivasa Nayaka in 1484 near Bagalkot. A wealthy diamond merchant, he renounced his vast wealth after spiritual awakening and became devoted disciple of Lord Vittala.",
+              "contentKn": "ಪುರಂದರದಾಸ 1484 ರಲ್ಲಿ ಬಾಗಲಕೋಟೆ ಸಮೀಪ ಜನಿಸಿ ವ್ಯಾಪಾರಿ ಸಂಪತ್ತು ತ್ಯಜಿಸಿ ವಿಟ್ಠಲ ಭಕ್ತರಾದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Father of Carnatic Music",
+              "titleKn": "ಕರ್ನಾಟಕ ಸಂಗೀತ ಜನಕ",
+              "contentEn": "Purandaradasa composed over 475,000 songs in Kannada and Sanskrit, earning 'Father of Carnatic Music' title. He systematized Carnatic music teaching with graded lessons still used today.",
+              "contentKn": "4,75,000 ಕ್ಕೂ ಹೆಚ್ಚು ಕೃತಿ ರಚಿಸಿ 'ಕರ್ನಾಟಕ ಸಂಗೀತ ಜನಕ' ಬಿರುದು ಪಡೆದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Devaranamas Still Sung",
+              "titleKn": "ಇಂದಿಗೂ ಹಾಡಲ್ಪಡುವ ದೇವರನಾಮ",
+              "contentEn": "Purandaradasa's devaranamas like 'Bhagyada Lakshmi Baaramma' are sung at homes across Karnataka daily. His music transcended caste and religion, making devotion accessible to all.",
+              "contentKn": "'ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ' ಮನೆ ಮನೆಯಲ್ಲಿ ಹಾಡಲ್ಪಡುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What title was Purandaradasa given?",
+              "questionKn": "What title was Purandaradasa given?",
+              "options": [
+                "Haridasa",
+                "Father of Carnatic Music",
+                "Rastakavi",
+                "Janapada Kavi"
+              ],
+              "optionsKn": [
+                "ಹರಿದಾಸ",
+                "ಕರ್ನಾಟಕ ಸಂಗೀತ ಜನಕ",
+                "ರಾಷ್ಟ್ರಕವಿ",
+                "ಜಾನಪದ ಕವಿ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "How many songs did Purandaradasa compose?",
+              "questionKn": "How many songs did Purandaradasa compose?",
+              "options": [
+                "100",
+                "1000",
+                "475,000",
+                "100,000"
+              ],
+              "optionsKn": [
+                "100",
+                "1000",
+                "4,75,000",
+                "1,00,000"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "What was his original profession?",
+              "questionKn": "What was his original profession?",
+              "options": [
+                "Farmer",
+                "Diamond Merchant",
+                "Temple Priest",
+                "Soldier"
+              ],
+              "optionsKn": [
+                "ರೈತ",
+                "ವಜ್ರ ವ್ಯಾಪಾರಿ",
+                "ದೇವಾಲಯ ಅರ್ಚಕ",
+                "ಸೈನಿಕ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_purandaradasa",
+          "badgeNameEn": "Purandaradasa Music Badge",
+          "badgeNameKn": "ಪುರಂದರದಾಸ ಸಂಗೀತ",
+          "statueLocation": {
+            "nameEn": "Purandaradasa Memorial Bagalkot",
+            "nameKn": "ಪುರಂದರದಾಸ ಸ್ಮಾರಕ",
+            "latitude": 16.1691,
+            "longitude": 75.6948,
+            "address": "Bagalkot, Karnataka",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Purandaradasa"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "yadgir",
+      "districtName": "Yadgir",
+      "districtNameKn": "ಯಾದಗಿರಿ",
+      "colorHex": "#196F3D",
+      "latitude": 16.7631,
+      "longitude": 77.1384,
+      "heroes": [
+        {
+          "heroId": "bhima_nayak",
+          "nameEn": "Bhima Nayak",
+          "nameKn": "ಭೀಮ ನಾಯಕ",
+          "era": "19th Century",
+          "category": "Tribal Freedom Fighter",
+          "categoryKn": "ಬುಡಕಟ್ಟು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "Tribal Warrior Against British Rule",
+          "taglineKn": "ಬ್ರಿಟಿಷ್ ವಿರುದ್ಧ ಬುಡಕಟ್ಟು ಯೋಧ",
+          "imageEmoji": "🏹",
+          "colorHex": "#196F3D",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Voice of the Tribes",
+              "titleKn": "ಬುಡಕಟ್ಟಿನ ಧ್ವನಿ",
+              "contentEn": "Bhima Nayak was a 19th century tribal leader from Yadgir who organized resistance against British tax collection and exploitation of tribal communities.",
+              "contentKn": "ಭೀಮ ನಾಯಕ 19ನೇ ಶತಮಾನ ಯಾದಗಿರಿ ಬುಡಕಟ್ಟು ನಾಯಕ. ಬ್ರಿಟಿಷ್ ತೆರಿಗೆ ಶೋಷಣೆ ವಿರುದ್ಧ ಪ್ರತಿರೋಧ ಸಂಘಟಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Forest Resistance",
+              "titleKn": "ಅರಣ್ಯ ಪ್ರತಿರೋಧ",
+              "contentEn": "Using forest knowledge, Bhima Nayak led guerrilla resistance against British forces who tried to control tribal lands. He united several tribal communities under one banner of freedom.",
+              "contentKn": "ಅರಣ್ಯ ಜ್ಞಾನ ಬಳಸಿ ಗೆರಿಲ್ಲಾ ಪ್ರತಿರೋಧ ನಡೆಸಿ ಅನೇಕ ಬುಡಕಟ್ಟು ಜನ ಒಂದು ಮಾಡಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Remembered by Tribes",
+              "titleKn": "ಬುಡಕಟ್ಟಿನ ನೆನಪಿನಲ್ಲಿ",
+              "contentEn": "Bhima Nayak's memory lives in tribal oral traditions and folk songs. He is a symbol of resistance and dignity for the tribal communities of Yadgir and surrounding districts.",
+              "contentKn": "ಭೀಮ ನಾಯಕರ ನೆನಪು ಬುಡಕಟ್ಟು ಜಾನಪದ ಹಾಡಿನಲ್ಲಿ ಜೀವಂತ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "What did Bhima Nayak fight against?",
+              "questionKn": "What did Bhima Nayak fight against?",
+              "options": [
+                "Drought",
+                "British tax and exploitation",
+                "Floods",
+                "Disease"
+              ],
+              "optionsKn": [
+                "ಬರ",
+                "ಬ್ರಿಟಿಷ್ ತೆರಿಗೆ ಶೋಷಣೆ",
+                "ಪ್ರವಾಹ",
+                "ರೋಗ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "What type of resistance did he lead?",
+              "questionKn": "What type of resistance did he lead?",
+              "options": [
+                "Non-violent",
+                "Guerrilla resistance",
+                "Legal battle",
+                "Political"
+              ],
+              "optionsKn": [
+                "ಅಹಿಂಸಾ",
+                "ಗೆರಿಲ್ಲಾ",
+                "ಕಾನೂನು",
+                "ರಾಜಕೀಯ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "How is Bhima Nayak remembered?",
+              "questionKn": "How is Bhima Nayak remembered?",
+              "options": [
+                "In books",
+                "In tribal folk songs",
+                "In monuments",
+                "In parliament"
+              ],
+              "optionsKn": [
+                "ಪುಸ್ತಕ",
+                "ಬುಡಕಟ್ಟು ಜಾನಪದ ಹಾಡು",
+                "ಸ್ಮಾರಕ",
+                "ಸಂಸತ್ತು"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_bhimanayak",
+          "badgeNameEn": "Tribal Warrior Badge",
+          "badgeNameKn": "ಬುಡಕಟ್ಟು ಯೋಧ",
+          "statueLocation": {
+            "nameEn": "Bhima Nayak Memorial Yadgir",
+            "nameKn": "ಭೀಮ ನಾಯಕ ಸ್ಮಾರಕ",
+            "latitude": 16.7631,
+            "longitude": 77.1384,
+            "address": "Yadgir, Karnataka",
+            "wikipediaUrl": null
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "vijayanagara",
+      "districtName": "Vijayanagara",
+      "districtNameKn": "ವಿಜಯನಗರ",
+      "colorHex": "#7D6608",
+      "latitude": 15.165,
+      "longitude": 76.52,
+      "heroes": [
+        {
+          "heroId": "hakka_bukka",
+          "nameEn": "Hakka and Bukka",
+          "nameKn": "ಹಕ್ಕ ಮತ್ತು ಬುಕ್ಕ",
+          "era": "14th Century",
+          "category": "Founders",
+          "categoryKn": "ಸ್ಥಾಪಕರು",
+          "taglineEn": "Founders of Vijayanagara Empire",
+          "taglineKn": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ ಸ್ಥಾಪಕರು",
+          "imageEmoji": "⚔️",
+          "colorHex": "#7D6608",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Two Brothers One Empire",
+              "titleKn": "ಇಬ್ಬರು ಸಹೋದರ ಒಂದು ಸಾಮ್ರಾಜ್ಯ",
+              "contentEn": "Hakka (Harihara I) and Bukka were two brothers who founded the Vijayanagara Empire in 1336 CE with Hampi as capital. With saint Vidyaranya's blessings they built one of India's greatest empires.",
+              "contentKn": "ಹಕ್ಕ ಮತ್ತು ಬುಕ್ಕ 1336 CE ಹಂಪಿ ರಾಜಧಾನಿಯಾಗಿ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Protecting Dharma",
+              "titleKn": "ಧರ್ಮ ರಕ್ಷಣೆ",
+              "contentEn": "They founded the empire to protect Hindu culture from the Delhi Sultanate's expansion into South India. Under their rule arts, literature and temples of Karnataka flourished tremendously.",
+              "contentKn": "ದೆಹಲಿ ಸುಲ್ತಾನಶಾಹಿ ವಿರುದ್ಧ ಹಿಂದೂ ಸಂಸ್ಕೃತಿ ರಕ್ಷಿಸಲು ಸಾಮ್ರಾಜ್ಯ ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Glorious Beginning",
+              "titleKn": "ವೈಭವದ ಆರಂಭ",
+              "contentEn": "Hakka and Bukka laid the foundation for 200 years of Vijayanagara glory. Their capital Hampi became a city of magnificent temples. Today Hampi is a UNESCO World Heritage Site.",
+              "contentKn": "200 ವರ್ಷ ವಿಜಯನಗರ ವೈಭವಕ್ಕೆ ಅಡಿಗಲ್ಲು ಹಾಕಿದರು. ಹಂಪಿ ಇಂದು UNESCO ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "Who founded Vijayanagara Empire?",
+              "questionKn": "Who founded Vijayanagara Empire?",
+              "options": [
+                "Tipu and Hyder Ali",
+                "Hakka and Bukka",
+                "Krishnadevaraya and Achyutha",
+                "Deva Raya"
+              ],
+              "optionsKn": [
+                "ಟಿಪ್ಪು ಮತ್ತು ಹೈದರ್",
+                "ಹಕ್ಕ ಮತ್ತು ಬುಕ್ಕ",
+                "ಕೃಷ್ಣದೇವರಾಯ",
+                "ದೇವ ರಾಯ"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "In which year was it founded?",
+              "questionKn": "In which year was it founded?",
+              "options": [
+                "1200 CE",
+                "1336 CE",
+                "1400 CE",
+                "1500 CE"
+              ],
+              "optionsKn": [
+                "1200 CE",
+                "1336 CE",
+                "1400 CE",
+                "1500 CE"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "questionEn": "Which saint blessed the founding?",
+              "questionKn": "Which saint blessed the founding?",
+              "options": [
+                "Basavanna",
+                "Vidyaranya",
+                "Madhvacharya",
+                "Shankaracharya"
+              ],
+              "optionsKn": [
+                "ಬಸವಣ್ಣ",
+                "ವಿದ್ಯಾರಣ್ಯ",
+                "ಮಧ್ವಾಚಾರ್ಯ",
+                "ಶಂಕರಾಚಾರ್ಯ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_hakkabukka",
+          "badgeNameEn": "Empire Founders Badge",
+          "badgeNameKn": "ಸಾಮ್ರಾಜ್ಯ ಸ್ಥಾಪಕ",
+          "statueLocation": {
+            "nameEn": "Hampi Vijayanagara",
+            "nameKn": "ಹಂಪಿ ವಿಜಯನಗರ",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "address": "Hampi, Vijayanagara",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hampi"
+          }
+        }
+      ]
+    },
+    {
+      "districtId": "dharwad_haveri",
+      "districtName": "Davangere",
+      "districtNameKn": "ದಾವಣಗೆರೆ",
+      "colorHex": "#CB4335",
+      "latitude": 14.4644,
+      "longitude": 75.9218,
+      "heroes": [
+        {
+          "heroId": "davangere_veeresh",
+          "nameEn": "Davangere Veeresh",
+          "nameKn": "ದಾವಣಗೆರೆ ವೀರೇಶ",
+          "era": "20th Century",
+          "category": "Freedom Fighter",
+          "categoryKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+          "taglineEn": "Davangere Freedom Warrior",
+          "taglineKn": "ದಾವಣಗೆರೆ ಸ್ವಾತಂತ್ರ್ಯ ಯೋಧ",
+          "imageEmoji": "🌟",
+          "colorHex": "#CB4335",
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "titleEn": "Son of Davangere",
+              "titleKn": "ದಾವಣಗೆರೆ ಮಗ",
+              "contentEn": "Davangere Veeresh was a local freedom fighter who participated in the Indian independence movement from the Davangere region. He organized local people to resist British rule through non-violent means.",
+              "contentKn": "ದಾವಣಗೆರೆ ವೀರೇಶ ದಾವಣಗೆರೆ ಪ್ರದೇಶದ ಸ್ಥಳೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ. ಅಹಿಂಸಾ ಮಾರ್ಗದಲ್ಲಿ ಬ್ರಿಟಿಷ್ ವಿರೋಧ ಸಂಘಟಿಸಿದರು."
+            },
+            {
+              "pageNumber": 2,
+              "titleEn": "Joining the Struggle",
+              "titleKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದಲ್ಲಿ",
+              "contentEn": "He participated in the Quit India Movement of 1942, was imprisoned for his activism and continued fighting for freedom even after release. He inspired many youths in the Davangere region to join the independence movement.",
+              "contentKn": "1942 ರ ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿ ಸೆರೆ ಸೇರಿ ದಾವಣಗೆರೆ ಯುವಕರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು."
+            },
+            {
+              "pageNumber": 3,
+              "titleEn": "Legacy of Davangere",
+              "titleKn": "ದಾವಣಗೆರೆ ಪರಂಪರೆ",
+              "contentEn": "Veeresh's legacy lives on in Davangere as a symbol of local resistance. The region remembers him through local commemorations and historical records preserved in district archives.",
+              "contentKn": "ದಾವಣಗೆರೆ ಜಿಲ್ಲೆ ಸ್ಥಳೀಯ ಪ್ರತಿರೋಧದ ಸಂಕೇತ ವೀರೇಶರ ನೆನಪು ಜಿಲ್ಲಾ ಇತಿಹಾಸ ದಾಖಲೆಗಳಲ್ಲಿ ಸಂರಕ್ಷಿತ."
+            }
+          ],
+          "quiz": [
+            {
+              "questionEn": "From which district was Davangere Veeresh?",
+              "questionKn": "From which district was Davangere Veeresh?",
+              "options": [
+                "Kalaburagi",
+                "Raichur",
+                "Davangere",
+                "Chitradurga"
+              ],
+              "optionsKn": [
+                "ಕಲಬುರಗಿ",
+                "ರಾಯಚೂರು",
+                "ದಾವಣಗೆರೆ",
+                "ಚಿತ್ರದುರ್ಗ"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "questionEn": "Which movement did he join in 1942?",
+              "questionKn": "Which movement did he join in 1942?",
+              "options": [
+                "Quit India Movement",
+                "Non-Cooperation",
+                "Civil Disobedience",
+                "Dandi March"
+              ],
+              "optionsKn": [
+                "ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ",
+                "ಅಸಹಕಾರ",
+                "ಅಸಹಕಾರ ಅಭಿಯಾನ",
+                "ದಂಡಿ ಮೆರವಣಿಗೆ"
+              ],
+              "correctIndex": 0
+            },
+            {
+              "questionEn": "How is his memory preserved?",
+              "questionKn": "How is his memory preserved?",
+              "options": [
+                "In temples",
+                "District archives and commemorations",
+                "In Bollywood films",
+                "In national monuments"
+              ],
+              "optionsKn": [
+                "ದೇವಾಲಯಗಳಲ್ಲಿ",
+                "ಜಿಲ್ಲಾ ದಾಖಲೆ ಮತ್ತು ಆಚರಣೆ",
+                "ಬಾಲಿವುಡ್ ಚಲನಚಿತ್ರ",
+                "ರಾಷ್ಟ್ರೀಯ ಸ್ಮಾರಕ"
+              ],
+              "correctIndex": 1
+            }
+          ],
+          "badgeId": "badge_davangere",
+          "badgeNameEn": "Davangere Freedom Badge",
+          "badgeNameKn": "ದಾವಣಗೆರೆ ಸ್ವಾತಂತ್ರ್ಯ ಬ್ಯಾಡ್ಜ್",
+          "statueLocation": {
+            "nameEn": "Davangere District Heritage",
+            "nameKn": "ದಾವಣಗೆರೆ ಜಿಲ್ಲಾ ಪರಂಪರೆ",
+            "latitude": 14.4644,
+            "longitude": 75.9218,
+            "address": "Davangere, Karnataka",
+            "wikipediaUrl": null
+          }
+        }
+      ]
+    }
+  ]
+}

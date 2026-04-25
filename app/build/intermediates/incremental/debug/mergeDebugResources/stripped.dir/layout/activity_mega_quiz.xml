@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="0dp"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/brand_primary"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Quiz Layout -->
+    <ScrollView
+        android:id="@+id/quizLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="16dp"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/megaQuizTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Karnataka Mega Quiz 🏆"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:layout_marginBottom="8dp" />
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:progressTint="@color/brand_primary"
+                android:progressBackgroundTint="@color/divider"
+                android:max="100"
+                android:progress="0"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/questionCounter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1 / 10"
+                android:textSize="12sp"
+                android:textColor="@color/text_hint"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Hero context chip -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="2dp"
+                app:cardBackgroundColor="@color/surface_variant">
+                <TextView
+                    android:id="@+id/heroContextChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="14dp"
+                    android:paddingEnd="14dp"
+                    android:paddingTop="6dp"
+                    android:paddingBottom="6dp"
+                    android:textSize="12sp"
+                    android:textColor="@color/text_secondary"
+                    android:text="Hero · District" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- Question Card -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/quizCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="4dp"
+                app:cardBackgroundColor="@color/surface">
+                <TextView
+                    android:id="@+id/questionText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="20dp"
+                    android:textSize="17sp"
+                    android:textColor="@color/text_primary"
+                    android:lineSpacingMultiplier="1.5"
+                    android:textStyle="bold" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- Options -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnOpt0"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:minHeight="52dp"
+                android:gravity="center_vertical|start"
+                android:paddingStart="16dp"
+                android:textSize="15sp"
+                app:cornerRadius="12dp"
+                app:strokeColor="@color/divider" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnOpt1"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:minHeight="52dp"
+                android:gravity="center_vertical|start"
+                android:paddingStart="16dp"
+                android:textSize="15sp"
+                app:cornerRadius="12dp"
+                app:strokeColor="@color/divider" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnOpt2"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:minHeight="52dp"
+                android:gravity="center_vertical|start"
+                android:paddingStart="16dp"
+                android:textSize="15sp"
+                app:cornerRadius="12dp"
+                app:strokeColor="@color/divider" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnOpt3"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:minHeight="52dp"
+                android:gravity="center_vertical|start"
+                android:paddingStart="16dp"
+                android:textSize="15sp"
+                app:cornerRadius="12dp"
+                app:strokeColor="@color/divider" />
+
+            <TextView
+                android:id="@+id/feedbackText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:padding="12dp"
+                android:layout_marginBottom="12dp"
+                android:visibility="invisible" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnNextQuestion"
+                style="@style/Button.Primary"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="Next ▶"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Results Layout -->
+    <ScrollView
+        android:id="@+id/resultsLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="24dp"
+        android:visibility="gone"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/resultEmoji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="80sp"
+                android:layout_marginTop="32dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:id="@+id/resultTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_primary"
+                android:gravity="center"
+                android:layout_marginBottom="12dp" />
+
+            <TextView
+                android:id="@+id/resultScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="52sp"
+                android:textStyle="bold"
+                android:textColor="@color/brand_primary"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/resultPercent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textColor="@color/text_secondary"
+                android:layout_marginBottom="36dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnRetryMega"
+                style="@style/Button.Secondary"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="Try Again 🔄"
+                android:layout_marginBottom="12dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnDone"
+                style="@style/Button.Primary"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:text="Back to Home" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
