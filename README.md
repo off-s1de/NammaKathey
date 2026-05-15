@@ -163,13 +163,31 @@ Or directly run the project using Android Studio on:
 
 ## Screenshots
 
+<p align="center">
+  <img src="screenshots/home.png" width="230"/>
+  <img src="screenshots/homemap.png" width="230"/>
+  <img src="screenshots/heroes.png" width="230"/>
+</p>
 
-![Home Screen](screenshots/home.png)
-![District Selection](screenshots/homemap.png)
-![Hero Stories](screenshots/heroes.png)
-![Hero Quiz](screenshots/quiz.png)
-![Badges Screen](screenshots/badges.png)
-![Statue Locator](screenshots/statues.png)
+<p align="center">
+  <b>Home Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>District Selection</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Hero Stories</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/quiz.png" width="230"/>
+  <img src="screenshots/badges.png" width="230"/>
+  <img src="screenshots/statues.png" width="230"/>
+</p>
+
+<p align="center">
+  <b>Hero Quiz</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Badges Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Statue Locator</b>
+</p>
 
 
 ---
