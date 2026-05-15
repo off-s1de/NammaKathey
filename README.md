@@ -120,7 +120,11 @@ NammaKathey/
 
 ## Installation & Setup
 
-### Prerequisites
+### Download APK 
+
+[Download Latest APK]([https://github.com/yourusername/NammaKathey/releases/latest](https://github.com/off-s1de/NammaKathey/releases/download/v1/NammaKathey-v1.apk))
+
+### Local
 
 * Android Studio (latest recommended version)
 * Android SDK installed
